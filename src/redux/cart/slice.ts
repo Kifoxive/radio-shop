@@ -49,7 +49,7 @@ const cartSlice = createSlice({
     removeItem(state, action: PayloadAction<ICartItem>) {
       state.items = state.items.filter(
         (obj) =>
-          obj.product.id !== action.payload.product.id &&
+          obj.product.id !== action.payload.product.id ||
           obj.selectedOption !== action.payload.selectedOption
       );
 

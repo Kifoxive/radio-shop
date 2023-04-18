@@ -1,17 +1,28 @@
 import { SortItem, SortPropertyEnum } from "../types";
 import { ICategoryCard } from "../@components/CategoryCard";
 import { IProductContainer } from "../@components/ProductContainer";
-import { capacitor, resistor, var_resistor, inductor } from "../assets";
+import {
+  capacitor,
+  resistor,
+  var_resistor,
+  inductor,
+  facebook,
+  twitter,
+  linkedin,
+  telegram,
+} from "../assets";
 
-// export const componentTypes: { [index: string]: string[] } = {
-//   capacitors: ["all", "ceramic", "aluminium", "film"],
-//   resistors: ["all", "film"],
-// };
+export const socialMediaLinks = [
+  { name: "facebook", imageUrl: facebook, link: "https://www.facebook.com/" },
+  { name: "twitter", imageUrl: twitter, link: "https://twitter.com/" },
+  { name: "linkedin", imageUrl: linkedin, link: "https://www.linkedin.com/" },
+  { name: "telegram", imageUrl: telegram, link: "https://web.telegram.org/" },
+];
 
 export const menuLinks = [
   { text: "home", link: "/" },
-  { text: "about", link: "/about" },
-  { text: "contact", link: "/contact" },
+  { text: "profile", link: "/profile" },
+  { text: "contacts", link: "/contacts" },
 ];
 
 export const categories: ICategoryCard[] = [

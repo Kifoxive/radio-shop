@@ -11,3 +11,8 @@ export { default as resistor } from "./resistor.png";
 export { default as var_resistor } from "./var-resistor.png";
 export { default as inductor } from "./inductor.png";
 export { default as transistor } from "./transistor.png";
+
+export { default as facebook } from "./facebook.png";
+export { default as twitter } from "./twitter.png";
+export { default as linkedin } from "./linkedin.png";
+export { default as telegram } from "./telegram.png";

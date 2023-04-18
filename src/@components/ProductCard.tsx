@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import styles from "../styles";
 
 import ContentLoader from "react-content-loader";
@@ -20,6 +20,7 @@ const ProductCard: React.FC<IProductCard> = ({
   componentName,
   id,
 }) => {
+  const [added, setAdded] = useState(false);
   const [selectedOptionIndex, setSelectedOptionIndex] =
     React.useState<number>(0);
   const navigator = useNavigate();
@@ -36,6 +37,7 @@ const ProductCard: React.FC<IProductCard> = ({
   };
 
   const onAddToCart = () => {
+    setAdded(true);
     dispatch(
       addToCart({
         product: {
@@ -110,12 +112,22 @@ const ProductCard: React.FC<IProductCard> = ({
           >
             Buy now
           </button>
-          <button
-            onClick={onAddToCart}
-            className={`${styles.smallText} relative flex-1 gap-4 p-3 text-[1.2rem] text-sky-500 uppercase border-solid border-2 border-sky-500 font-bold hover:top-1 hover:bg-sky-500 hover:shadow-md hover:text-white transition-all`}
-          >
-            Add to cart
-          </button>
+
+          {added ? (
+            <button
+              onClick={onAddToCart}
+              className={`${styles.smallText} relative flex-1 gap-4 p-3 text-[1.2rem] text-green-500 uppercase border-solid border-2 border-green-500 font-bold hover:bg-green-500 hover:shadow-md hover:text-white transition-all`}
+            >
+              Added ✓
+            </button>
+          ) : (
+            <button
+              onClick={onAddToCart}
+              className={`${styles.smallText} relative flex-1 gap-4 p-3 text-[1.2rem] text-sky-500 uppercase border-solid border-2 border-sky-500 font-bold hover:top-1 hover:bg-sky-500 hover:shadow-md hover:text-white transition-all`}
+            >
+              Add to cart
+            </button>
+          )}
         </div>
       </div>
     </div>

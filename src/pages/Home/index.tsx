@@ -42,7 +42,7 @@ const Home: React.FC = () => {
           <CategoryCard {...item} key={item.link} />
         ))}
       </div>
-      <div>
+      <div className="mb-20">
         <h3 className={`${styles.heading3} text-black sm:text-start mb-4`}>
           Recommended
         </h3>
@@ -56,9 +56,9 @@ const Home: React.FC = () => {
       </div>
       {recentProducts && (
         <div>
-          <h3
-            className={`${styles.heading3} text-black sm:text-start mb-4`}
-          ></h3>
+          <h3 className={`${styles.heading3} text-black sm:text-start mb-4`}>
+            Recent
+          </h3>
           <div className="flex flex-1 flex-wrap p-4">
             {recentProducts?.map((item) => (
               <ProductCard key={item.id} {...item} />

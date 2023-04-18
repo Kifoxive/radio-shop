@@ -130,7 +130,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS Electrolytic Capacitor 25V DC ",
       "price": 1.2,
       "rating": 4.9,
-      "imageUrl": "/assets/c-al-25v.webp",
+      "imageUrl": "assets/c-al-25v.webp",
       "optionName": "capacity",
       "options": [
         "10μF",
@@ -147,7 +147,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS Electrolytic Capacitor 2.7V DC",
       "price": 0.5,
       "rating": 4.3,
-      "imageUrl": "/assets/c-al-2.7v.jpeg",
+      "imageUrl": "assets/c-al-2.7v.jpeg",
       "optionName": "capacity",
       "options": [
         "10μF",
@@ -164,7 +164,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "For the operation of A.C. motors and three-phase A.C",
       "price": 6.4,
       "rating": 3.9,
-      "imageUrl": "/assets/c-al-450v.jpeg",
+      "imageUrl": "assets/c-al-450v.jpeg",
       "optionName": "capacity",
       "options": [
        "68μF",
@@ -179,7 +179,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS Electrolytic Capacitor 63V DC",
       "price": 5.3,
       "rating": 4.2,
-      "imageUrl": "/assets/c-al-63v.jpeg",
+      "imageUrl": "assets/c-al-63v.jpeg",
       "optionName": "capacity",
       "options": [
         "4700μF",
@@ -194,7 +194,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "Wurth Elektronik DC capacitor, Through Hole",
       "price": 0.02,
       "rating": 4.7,
-      "imageUrl": "/assets/c-al-50v.jpeg",
+      "imageUrl": "assets/c-al-50v.jpeg",
       "optionName": "capacity",
       "options": [
         "3300μF"
@@ -208,7 +208,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "Vishay Single Layer Ceramic Capacitor",
       "price": 0.16,
       "rating": 3.8,
-      "imageUrl": "/assets/c-ce-1kv.jpeg",
+      "imageUrl": "assets/c-ce-1kv.jpeg",
       "optionName": "capacity",
       "options": [
         "100pF",
@@ -223,7 +223,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "Vishay Single Layer Ceramic Capacitor",
       "price": 0.13,
       "rating": 4.5,
-      "imageUrl": "/assets/c-ce-50v.jpeg",
+      "imageUrl": "assets/c-ce-50v.jpeg",
       "optionName": "capacity",
       "options": [
         "1μF"
@@ -237,7 +237,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "Vishay Single Layer Ceramic Capacitor (SLCC)",
       "price": 0.22,
       "rating": 4.7,
-      "imageUrl": "/assets/c-ce-300v.jpeg",
+      "imageUrl": "assets/c-ce-300v.jpeg",
       "optionName": "capacity",
       "options": [
         "4.7nF"
@@ -251,7 +251,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO (SLCC)",
       "price": 0.06,
       "rating": 4.3,
-      "imageUrl": "/assets/c-ce-3kv.jpeg",
+      "imageUrl": "assets/c-ce-3kv.jpeg",
       "optionName": "capacity",
       "options": [
         "470pF"
@@ -265,7 +265,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "Polypropylene Film Capacitor",
       "price": 11.5,
       "rating": 4.4,
-      "imageUrl": "/assets/c-fi-440v.webp",
+      "imageUrl": "assets/c-fi-440v.webp",
       "optionName": "capacity",
       "options": [
         "6μF",
@@ -281,7 +281,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO Polystyrene Capacitor 63V",
       "price": 3.35,
       "rating": 4.6,
-      "imageUrl": "/assets/c-fi-160v.webp",
+      "imageUrl": "assets/c-fi-160v.webp",
       "optionName": "capacity",
       "options": [
         "10nF"
@@ -298,7 +298,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO Carbon Resistor 0.25W ±5%",
       "price": 0.16,
       "rating": 4.1,
-      "imageUrl": "/assets/r-fi-1ko.webp",
+      "imageUrl": "assets/r-fi-1ko.webp",
       "type": "film",
       "componentName": "resistors",
       "id": "r-fi-1ko"
@@ -308,7 +308,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO Carbon Resistor 0.25W ±5%",
       "price": 0.22,
       "rating": 4.2,
-      "imageUrl": "/assets/r-fi-4.7ko.webp",
+      "imageUrl": "assets/r-fi-4.7ko.webp",
       "type": "film",
       "componentName": "resistors",
       "id": "r-fi-4.7ko"
@@ -318,7 +318,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO Carbon Resistor 0.25W ±5%",
       "price": 0.27,
       "rating": 4.8,
-      "imageUrl": "/assets/r-fi-10ko.webp",
+      "imageUrl": "assets/r-fi-10ko.webp",
       "type": "film",
       "componentName": "resistors",
       "id": "r-fi-10ko"
@@ -328,7 +328,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO Carbon Resistor 0.25W ±5%",
       "price": 0.32,
       "rating": 5,
-      "imageUrl": "/assets/r-fi-330ko.webp",
+      "imageUrl": "assets/r-fi-330ko.webp",
       "type": "film",
       "componentName": "resistors",
       "id": "r-fi-330ko"
@@ -338,7 +338,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO Carbon Resistor 0.25W ±5%",
       "price": 0.08,
       "rating": 4.6,
-      "imageUrl": "/assets/r-fi-100o.webp",
+      "imageUrl": "assets/r-fi-100o.webp",
       "type": "film",
       "componentName": "resistors",
       "id": "r-fi-100o"
@@ -348,7 +348,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO 1kΩ 5% 180W High Power Wirewound Adjustable Resistor 50ppm/°C 21.6mm",
       "price": 52.82,
       "rating": 4.9,
-      "imageUrl": "/assets/r-ad-1ko.webp",
+      "imageUrl": "assets/r-ad-1ko.webp",
       "type": "adjustable",
       "componentName": "resistors",
       "id": "r-ad-1ko"
@@ -358,7 +358,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO 1Ω 10% 225W Adjustable Wire Wound Resistor 50ppm/°C 21.6mm",
       "price": 29.91,
       "rating": 4.6,
-      "imageUrl": "/assets/r-ad-1o.webp",
+      "imageUrl": "assets/r-ad-1o.webp",
       "type": "adjustable",
       "componentName": "resistors",
       "id": "r-ad-1o"
@@ -371,7 +371,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO 5kΩ Potentiometer Panel Mount",
       "price": 54.57,
       "rating": 4.5,
-      "imageUrl": "/assets/vr-po-5ko.webp",
+      "imageUrl": "assets/vr-po-5ko.webp",
       "type": "potentiometers",
       "componentName": "var-resistors",
       "id": "vr-po-5ko"
@@ -381,7 +381,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO 5kΩ Potentiometer Panel Mount",
       "price": 6.14,
       "rating": 4.8,
-      "imageUrl": "/assets/vr-po-10ko.webp",
+      "imageUrl": "assets/vr-po-10ko.webp",
       "type": "potentiometers",
       "componentName": "var-resistors",
       "id": "vr-po-10ko"
@@ -391,7 +391,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO 1kΩ Rotary Potentiometer 10-Turns 1-Gang Panel Mount",
       "price": 12.41,
       "rating": 4.7,
-      "imageUrl": "/assets/vr-po-1ko.webp",
+      "imageUrl": "assets/vr-po-1ko.webp",
       "type": "potentiometers",
       "componentName": "var-resistors",
       "id": "vr-po-1ko"
@@ -401,7 +401,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO 16.2mm Black Potentiometer Knob for 6mm Shaft Splined",
       "price": 2.27,
       "rating": 4.7,
-      "imageUrl": "/assets/vr-poa-16.2mm.webp",
+      "imageUrl": "assets/vr-poa-16.2mm.webp",
       "type": "potentiometer-accessories",
       "componentName": "var-resistors",
       "id": "vr-poa-16.2mm"
@@ -411,7 +411,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO 28.4mm Black Potentiometer Knob for 6.35mm Shaft",
       "price": 3.24,
       "rating": 4.5,
-      "imageUrl": "/assets/vr-poa-28.4mm.webp",
+      "imageUrl": "assets/vr-poa-28.4mm.webp",
       "type": "potentiometer-accessories",
       "componentName": "var-resistors",
       "id": "vr-poa-28.4mm"
@@ -421,7 +421,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "Bourns H-38-11 Mounting Nut",
       "price": 0.29,
       "rating": 5.0,
-      "imageUrl": "/assets/vr-poa-1.webp",
+      "imageUrl": "assets/vr-poa-1.webp",
       "type": "potentiometer-accessories",
       "componentName": "var-resistors",
       "id": "vr-poa-1"
@@ -431,7 +431,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "Arcol 100Ω Wirewound Rheostat 1.8A, VRH320 100R K",
       "price": 189.03,
       "rating": 4.4,
-      "imageUrl": "/assets/vr-rh-100o.webp",
+      "imageUrl": "assets/vr-rh-100o.webp",
       "type": "rheostats",
       "componentName": "var-resistors",
       "id": "vr-rh-100o"
@@ -441,7 +441,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "Arcol 33Ω Wirewound Rheostat 3.1A, VRH320 33R K",
       "price": 190.24,
       "rating": 4.5,
-      "imageUrl": "/assets/vr-rh-33o.webp",
+      "imageUrl": "assets/vr-rh-33o.webp",
       "type": "rheostats",
       "componentName": "var-resistors",
       "id": "vr-rh-33o"
@@ -451,7 +451,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "Arcol Ohmite 50W 50Ω Rheostat 1A, RJS50RE",
       "price": 105.05,
       "rating": 4.6,
-      "imageUrl": "/assets/vr-rh-50o.webp",
+      "imageUrl": "assets/vr-rh-50o.webp",
       "type": "rheostats",
       "componentName": "var-resistors",
       "id": "vr-rh-50o"
@@ -461,7 +461,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "Arcol Ohmite Knob for G Model, H Model, J Model, K Model, L Model, 5150E",
       "price": 13.33,
       "rating": 4.8,
-      "imageUrl": "/assets/vr-rha-1.webp",
+      "imageUrl": "assets/vr-rha-1.webp",
       "type": "rheostat-accessories",
       "componentName": "var-resistors",
       "id": "vr-rha-1"
@@ -471,7 +471,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "Vishay Dial for RT25 Potentiometer, ACCRFCADRANCG57",
       "price": 47.37,
       "rating": 4.9,
-      "imageUrl": "/assets/vr-rha-2.webp",
+      "imageUrl": "assets/vr-rha-2.webp",
       "type": "rheostat-accessories",
       "componentName": "var-resistors",
       "id": "vr-rha-2"
@@ -481,7 +481,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "Vishay Dial for RT12 Potentiometer, ACCRFCADRANCG45",
       "price": 44.36,
       "rating": 4.5,
-      "imageUrl": "/assets/vr-rha-3.webp",
+      "imageUrl": "assets/vr-rha-3.webp",
       "type": "rheostat-accessories",
       "componentName": "var-resistors",
       "id": "vr-rha-3"
@@ -491,7 +491,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "10kΩ, gh Hole Trimmer Potentiometer 0.5W Top Adjust Bourns, 3296",
       "price": 2.03,
       "rating": 4.6,
-      "imageUrl": "/assets/vr-tr-10ko.webp",
+      "imageUrl": "assets/vr-tr-10ko.webp",
       "type": "trimmers",
       "componentName": "var-resistors",
       "id": "vr-tr-10ko"
@@ -501,7 +501,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "5kΩ, gh Hole Trimmer Potentiometer 0.5W Top Adjust Bourns, 3296",
       "price": 1.96,
       "rating": 4.5,
-      "imageUrl": "/assets/vr-tr-5ko.webp",
+      "imageUrl": "assets/vr-tr-5ko.webp",
       "type": "trimmers",
       "componentName": "var-resistors",
       "id": "vr-tr-5ko"
@@ -511,7 +511,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "100kΩ, gh Hole Trimmer Potentiometer 0.5W Top Adjust Bourns, 3296",
       "price": 1.9,
       "rating": 4.6,
-      "imageUrl": "/assets/vr-tr-100ko.webp",
+      "imageUrl": "assets/vr-tr-100ko.webp",
       "type": "trimmers",
       "componentName": "var-resistors",
       "id": "vr-tr-100ko"
@@ -521,7 +521,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "Vishay Trimmer Adjustment Tool 127mm",
       "price": 7.39,
       "rating": 4.9,
-      "imageUrl": "/assets/vr-tra-1.webp",
+      "imageUrl": "assets/vr-tra-1.webp",
       "type": "trimmer-accessories",
       "componentName": "var-resistors",
       "id": "vr-tra-1"
@@ -531,7 +531,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "Bourns Panel Mount Adapter 29.7mm, For Use With Potentiometer",
       "price": 2.18,
       "rating": 4.7,
-      "imageUrl": "/assets/vr-tra-29.7mm.webp",
+      "imageUrl": "assets/vr-tra-29.7mm.webp",
       "type": "trimmer-accessories",
       "componentName": "var-resistors",
       "id": "vr-tra-29.7mm"
@@ -541,7 +541,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "Vishay Panel Mount Adapter 32mm, For Use With Potentiometer",
       "price": 12.69,
       "rating": 4.8,
-      "imageUrl": "/assets/vr-tra-32mm.webp",
+      "imageUrl": "assets/vr-tra-32mm.webp",
       "type": "trimmer-accessories",
       "componentName": "var-resistors",
       "id": "vr-tra-32mm"
@@ -554,7 +554,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO 100 μH ±15% Leaded Inductor, 1A Idc, 0.044Ω Rdc",
       "price": 3.6,
       "rating": 4.5,
-      "imageUrl": "/assets/i-le-1a.webp",
+      "imageUrl": "assets/i-le-1a.webp",
       "type": "leaded",
       "componentName": "inductors",
       "id": "i-le-1a"
@@ -564,7 +564,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO 100 μH Ferrite Leaded Inductor, 550mA Idc, 0.67Ω Rdc",
       "price": 2.34,
       "rating": 4.8,
-      "imageUrl": "/assets/i-le-550ma.webp",
+      "imageUrl": "assets/i-le-550ma.webp",
       "type": "leaded",
       "componentName": "inductors",
       "id": "i-le-550ma"
@@ -574,7 +574,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO 100 μH ±15% Power Inductor, 10A Idc, 0.044Ω Rdc",
       "price": 4.35,
       "rating": 4.6,
-      "imageUrl": "/assets/i-le-10a.webp",
+      "imageUrl": "assets/i-le-10a.webp",
       "type": "leaded",
       "componentName": "inductors",
       "id": "i-le-10a"
@@ -584,7 +584,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO 68 μH ±15% Leaded Inductor, 5A Idc, 0.055Ω Rdc",
       "price": 1.04,
       "rating": 4.2,
-      "imageUrl": "/assets/i-le-5a.webp",
+      "imageUrl": "assets/i-le-5a.webp",
       "type": "leaded",
       "componentName": "inductors",
       "id": "i-le-5a"
@@ -594,7 +594,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO 470 μH ±15% Power Inductor, 3A Idc, 0.187Ω Rdc",
       "price": 2.39,
       "rating": 4.3,
-      "imageUrl": "/assets/i-le-3a.webp",
+      "imageUrl": "assets/i-le-3a.webp",
       "optionName": "inductiance",
       "options": [
        "33μH",
@@ -611,7 +611,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO 47 μH ±15% Power Inductor, 7.5A Idc, 0.026Ω Rdc",
       "price": 1.65,
       "rating": 4.7,
-      "imageUrl": "/assets/i-le-7.5a.webp",
+      "imageUrl": "assets/i-le-7.5a.webp",
       "type": "leaded",
       "componentName": "inductors",
       "id": "i-le-7.5a"
@@ -621,7 +621,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO 100 μH ±15% Leaded Inductor, 2A Idc, 0.109Ω Rdc",
       "price": 0.76,
       "rating": 4.4,
-      "imageUrl": "/assets/i-le-2a.webp",
+      "imageUrl": "assets/i-le-2a.webp",
       "type": "leaded",
       "componentName": "inductors",
       "id": "i-le-2a"
@@ -631,7 +631,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO 100 μH ±15% Leaded Inductor, 500mA Idc, 0.14Ω Rdc",
       "price": 6.78,
       "rating": 4.5,
-      "imageUrl": "/assets/i-le-500ma.webp",
+      "imageUrl": "assets/i-le-500ma.webp",
       "type": "leaded",
       "componentName": "inductors",
       "id": "i-le-500ma"
@@ -641,7 +641,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO, 53 Shielded Wire-wound SMD Inductor 10 μH ±20% Wire-Wound 1.3A Idc",
       "price": 0.49,
       "rating": 4.7,
-      "imageUrl": "/assets/i-sm-1.3a.webp",
+      "imageUrl": "assets/i-sm-1.3a.webp",
       "type": "surface",
       "componentName": "inductors",
       "id": "i-sm-1.3a"
@@ -651,7 +651,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO, 27 Shielded Wire-wound SMD Inductor 33 μH ±20% Wire-Wound 3A Idc",
       "price": 0.53,
       "rating": 4.3,
-      "imageUrl": "/assets/i-sm-3a.webp",
+      "imageUrl": "assets/i-sm-3a.webp",
       "type": "surface",
       "componentName": "inductors",
       "id": "i-sm-3a"
@@ -661,7 +661,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO, 29 Shielded Wire-wound SMD Inductor 47 μH Shielded 3.45A Idc",
       "price": 1.05,
       "rating": 4.7,
-      "imageUrl": "/assets/i-sm-3.45a.webp",
+      "imageUrl": "assets/i-sm-3.45a.webp",
       "type": "surface",
       "componentName": "inductors",
       "id": "i-sm-3.45a"
@@ -671,7 +671,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO, 43 Shielded Wire-wound SMD Inductor 2.2 μH ±20% Wire-Wound 2.04A Idc",
       "price": 0.23,
       "rating": 4.8,
-      "imageUrl": "/assets/i-sm-2.04a.webp",
+      "imageUrl": "assets/i-sm-2.04a.webp",
       "type": "surface",
       "componentName": "inductors",
       "id": "i-sm-2.04a"
@@ -681,7 +681,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO, 0402 (1005M) Wire-wound SMD Inductor with a Ceramic Core, 1 nH ±0.1nH Wire-Wound 700mA Idc Q:13",
       "price": 0.03,
       "rating": 4.9,
-      "imageUrl": "/assets/i-sm-700ma.webp",
+      "imageUrl": "assets/i-sm-700ma.webp",
       "type": "surface",
       "componentName": "inductors",
       "id": "i-sm-700ma"
@@ -691,7 +691,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO, 0805 (2012M) Wire-wound SMD Inductor with a Ceramic Core, 68 nH ±5% Wire-Wound 500mA Idc Q:60",
       "price": 0.07,
       "rating": 5.0,
-      "imageUrl": "/assets/i-sm-500ma.webp",
+      "imageUrl": "assets/i-sm-500ma.webp",
       "type": "surface",
       "componentName": "inductors",
       "id": "i-sm-500ma"
@@ -701,7 +701,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "RS PRO Shielded Wire-wound SMD Inductor with a Ferrite Core, 22 μH ±20% Moulded 9.5A Idc",
       "price": 2.33,
       "rating": 4.4,
-      "imageUrl": "/assets/i-sm-9.5a.webp",
+      "imageUrl": "assets/i-sm-9.5a.webp",
       "type": "surface",
       "componentName": "inductors",
       "id": "i-sm-9s.5a"
@@ -711,7 +711,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "Bourns Dual Coupled Inductor Ferrite Core, 100 μH",
       "price": 0.86,
       "rating": 4.4,
-      "imageUrl": "/assets/i-co-100uh.webp",
+      "imageUrl": "assets/i-co-100uh.webp",
       "type": "coupled",
       "componentName": "inductors",
       "id": "i-co-100uh"
@@ -721,7 +721,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "Wurth Elektronik Dual Coupled Inductor Ferrite Core, 220 μH",
       "price": 2.51,
       "rating": 4.7,
-      "imageUrl": "/assets/i-co-220uh.webp",
+      "imageUrl": "assets/i-co-220uh.webp",
       "type": "coupled",
       "componentName": "inductors",
       "id": "i-co-220uh"
@@ -731,7 +731,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "BWurth Elektronik Dual Coupled Inductor Composite Iron Powder Core, 2.2 μH",
       "price": 5.85,
       "rating": 4.5,
-      "imageUrl": "/assets/i-co-2.2uh.webp",
+      "imageUrl": "assets/i-co-2.2uh.webp",
       "type": "coupled",
       "componentName": "inductors",
       "id": "i-co-2.2uh"
@@ -741,7 +741,7 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "Bourns Dual Coupled Inductor Ferrite Core, 10 μH",
       "price": 0.48,
       "rating": 4.8,
-      "imageUrl": "/assets/i-co-10uh.webp",
+      "imageUrl": "assets/i-co-10uh.webp",
       "type": "coupled",
       "componentName": "inductors",
       "id": "i-co-10uh"
@@ -751,11 +751,11 @@ See https://reactjs.org/docs/forms.html#controlled-components`),U=N.initialPage?
       "description": "Vishay Shielded Coupled Inductor, 22 μH",
       "price": 2.72,
       "rating": 4.5,
-      "imageUrl": "/assets/i-co-22uh.webp",
+      "imageUrl": "assets/i-co-22uh.webp",
       "type": "coupled",
       "componentName": "inductors",
       "id": "i-co-22uh"
     }
    ]
   }
-`,OS={c:"capacitors",r:"resistors",i:"inductors",vr:"var-resistors"},Ta=8;class bS{constructor(){}get(t,{productName:n,type:r,sortBy:i,pageNumber:o}){return new Promise((l,a)=>{const[,s,u]=t.split("/");if(s!=="components")return;setTimeout(c,650);function c(){if(s==="components"&&u==="recommend")g();else if(s==="components"&&u){const d=OS[u.split("-")[0]];m(u,d)}if(r==="all")return h(n);r&&f(n,r)}function h(d){const v=JSON.parse(ro)[d],x=v.length,C=S(v,i),O=y(C);return p(O,x)}function f(d,v){const x=JSON.parse(ro)[d].filter(R=>R.type===v),C=x.length,O=S(x,i),E=y(O);return p(E,C)}function m(d,v){const C=JSON.parse(ro)[v].find(O=>O.id===d);return C?p([C]):a("Product did not found")}function g(){const d=JSON.parse(ro),v=[d.capacitors[0],d.resistors[0],d["var-resistors"][0],d.inductors[0]];return p(v)}function y(d){return d.splice(o*Ta,Ta)}function S(d,v){if(!v)return d;switch(v){case"price":d.sort((x,C)=>C.price-x.price);case"-price":return d.sort((x,C)=>x.price-C.price);case"rating":return d.sort((x,C)=>C.rating-x.rating);case"-rating":return d.sort((x,C)=>x.rating-C.rating)}return d}function p(d,v){l({data:d,itemsPerPage:v?Math.floor(v/Ta):0})}})}}const Ia=new bS,mc={getAll(e){return Ia.get("/components",e)},getOne(e){return Ia.get(`/components/${e}`,{})},getRecommend(){return Ia.get("/components/recommend",{})}},Lh=()=>{const e=localStorage.getItem("recent");return e?JSON.parse(e):[]},_S=()=>{const[e,t]=P.useState(),[n,r]=P.useState(),i=[...new Array(4)].map((o,l)=>w(bh,{},l));return We.useEffect(()=>{(async()=>{try{const{data:l}=await mc.getRecommend();t(l),r(Lh())}catch(l){console.log(l)}})()},[]),T("div",{className:"p-6 w-full",children:[w(AS,{}),w("h3",{className:`${L.heading3} text-black sm:text-start mb-4`,children:"Categories"}),w("div",{className:"flex flex-wrap mb-20",children:gS.map(o=>P.createElement(lS,{...o,key:o.link}))}),T("div",{children:[w("h3",{className:`${L.heading3} text-black sm:text-start mb-4`,children:"Recommended"}),w("div",{className:"flex flex-1 flex-wrap p-4",children:e?e==null?void 0:e.map(o=>w(Hs,{...o},o.id)):[...i]})]}),n&&T("div",{children:[w("h3",{className:`${L.heading3} text-black sm:text-start mb-4`}),w("div",{className:"flex flex-1 flex-wrap p-4",children:n==null?void 0:n.map(o=>w(Hs,{...o},o.id))})]})]})},RS=()=>T("div",{className:"p-6",children:[w("h3",{className:`${L.heading3} text-black mb-4`,children:"About"}),T("div",{className:"px-4",children:[w("p",{className:`${L.paragraph} text-black pb-4`,children:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, suscipit enim temporibus voluptatibus sequi, quas deleniti dolores iusto eaque ipsam illo eum! Beatae voluptate velit, repellat reprehenderit sed temporibus dolorum! Exercitationem saepe, at fugiat sed ex tenetur officiis ab culpa, consequuntur quo dignissimos praesentium? Natus reprehenderit odit rerum ad possimus iusto impedit hic velit vitae illum. Earum nostrum quidem consectetur? Reprehenderit tempore in accusantium, repudiandae a autem sint cumque numquam distinctio qui praesentium? Molestiae commodi illo doloribus impedit, delectus soluta quam quaerat labore sit neque doloremque deserunt nam."}),w("p",{className:`${L.paragraph} text-black pb-4`,children:"Soluta, blanditiis. Maxime repellat, tempore qui nihil itaque pariatur eaque magni natus blanditiis dolorem fuga iusto nam consequuntur odit accusamus, repudiandae similique culpa quae iure! Accusamus natus nostrum vitae repudiandae voluptatum a. Quasi accusantium, optio quia ipsam distinctio velit totam odit voluptatem, animi unde dolor sint nam autem ea veniam assumenda quidem numquam mollitia ducimus rem deleniti delectus? Est ratione delectus nam. Rerum, et eum quidem tenetur voluptates dolor veniam rem mollitia, animi dolores minima tempore velit laboriosam iure quis architecto enim! Deserunt libero aliquam esse quod modi eveniet temporibus consectetur voluptates! Rerum ullam qui cumque est, recusandae dolor! Impedit debitis, ullam temporibus eos delectus ab nesciunt officiis doloremque maxime hic qui placeat, inventore asperiores quia ipsum sit."}),w("p",{className:`${L.paragraph} text-black pb-4`,children:"Deleniti asperiores eaque recusandae. Earum et, libero esse accusamus illum voluptatibus velit reiciendis aliquid totam sequi odio, quo nesciunt doloribus sed. At consectetur voluptas dolore, enim suscipit totam quis a, porro illum modi iste? Molestiae dolorem deserunt deleniti magnam rem architecto culpa quasi earum! Voluptate pariatur officia inventore, fugit distinctio dicta ratione voluptatum vel unde impedit obcaecati, nobis laborum quis, dolorem rem laudantium et. Dolores ullam est ut eveniet. Incidunt maiores facere asperiores mollitia natus vero fugiat officiis inventore minima, expedita et deleniti repellendus nostrum. Dolor ullam sunt incidunt dolorum impedit nisi ducimus voluptatibus? Tempora quod, porro placeat exercitationem beatae necessitatibus nesciunt fugit architecto earum possimus voluptatum quisquam animi aspernatur ipsa magnam pariatur dolorem ab! Molestiae distinctio in, ex consequuntur praesentium dolores totam sunt! Quibusdam eum repellendus blanditiis beatae, nemo dolores recusandae impedit veritatis unde tempora deserunt asperiores nisi dolore esse nostrum praesentium ab laborum soluta nihil fugit accusamus? Beatae praesentium dignissimos laboriosam animi. Ea, eum. Quisquam, nostrum? A enim excepturi, ad optio provident tenetur aut iste, nihil eaque cum totam laudantium ipsum maxime facilis omnis temporibus quam ut fuga. Ducimus est expedita voluptates! Deleniti, quos? Nemo recusandae dolores maxime cumque odit ratione at illum enim libero hic minima quidem delectus reiciendis esse aperiam laudantium similique, repudiandae voluptate sapiente veritatis magni nihil harum doloribus!"})]})]}),LS=()=>T("div",{className:"p-6",children:[w("h3",{className:`${L.heading3} text-black mb-4`,children:"Career"}),T("div",{className:"px-4",children:[w("p",{className:`${L.paragraph} text-black pb-4`,children:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, suscipit enim temporibus voluptatibus sequi, quas deleniti dolores iusto eaque ipsam illo eum! Beatae voluptate velit, repellat reprehenderit sed temporibus dolorum! Exercitationem saepe, at fugiat sed ex tenetur officiis ab culpa, consequuntur quo dignissimos praesentium? Natus reprehenderit odit rerum ad possimus iusto impedit hic velit vitae illum. Earum nostrum quidem consectetur? Reprehenderit tempore in accusantium, repudiandae a autem sint cumque numquam distinctio qui praesentium? Molestiae commodi illo doloribus impedit, delectus soluta quam quaerat labore sit neque doloremque deserunt nam."}),w("p",{className:`${L.paragraph} text-black pb-4`,children:"Soluta, blanditiis. Maxime repellat, tempore qui nihil itaque pariatur eaque magni natus blanditiis dolorem fuga iusto nam consequuntur odit accusamus, repudiandae similique culpa quae iure! Accusamus natus nostrum vitae repudiandae voluptatum a. Quasi accusantium, optio quia ipsam distinctio velit totam odit voluptatem, animi unde dolor sint nam autem ea veniam assumenda quidem numquam mollitia ducimus rem deleniti delectus? Est ratione delectus nam. Rerum, et eum quidem tenetur voluptates dolor veniam rem mollitia, animi dolores minima tempore velit laboriosam iure quis architecto enim! Deserunt libero aliquam esse quod modi eveniet temporibus consectetur voluptates! Rerum ullam qui cumque est, recusandae dolor! Impedit debitis, ullam temporibus eos delectus ab nesciunt officiis doloremque maxime hic qui placeat, inventore asperiores quia ipsum sit."}),w("p",{className:`${L.paragraph} text-black pb-4`,children:"Deleniti asperiores eaque recusandae. Earum et, libero esse accusamus illum voluptatibus velit reiciendis aliquid totam sequi odio, quo nesciunt doloribus sed. At consectetur voluptas dolore, enim suscipit totam quis a, porro illum modi iste? Molestiae dolorem deserunt deleniti magnam rem architecto culpa quasi earum! Voluptate pariatur officia inventore, fugit distinctio dicta ratione voluptatum vel unde impedit obcaecati, nobis laborum quis, dolorem rem laudantium et. Dolores ullam est ut eveniet. Incidunt maiores facere asperiores mollitia natus vero fugiat officiis inventore minima, expedita et deleniti repellendus nostrum. Dolor ullam sunt incidunt dolorum impedit nisi ducimus voluptatibus? Tempora quod, porro placeat exercitationem beatae necessitatibus nesciunt fugit architecto earum possimus voluptatum quisquam animi aspernatur ipsa magnam pariatur dolorem ab! Molestiae distinctio in, ex consequuntur praesentium dolores totam sunt! Quibusdam eum repellendus blanditiis beatae, nemo dolores recusandae impedit veritatis unde tempora deserunt asperiores nisi dolore esse nostrum praesentium ab laborum soluta nihil fugit accusamus? Beatae praesentium dignissimos laboriosam animi. Ea, eum. Quisquam, nostrum? A enim excepturi, ad optio provident tenetur aut iste, nihil eaque cum totam laudantium ipsum maxime facilis omnis temporibus quam ut fuga. Ducimus est expedita voluptates! Deleniti, quos? Nemo recusandae dolores maxime cumque odit ratione at illum enim libero hic minima quidem delectus reiciendis esse aperiam laudantium similique, repudiandae voluptate sapiente veritatis magni nihil harum doloribus!"})]})]}),TS=()=>T("div",{className:"p-6",children:[w("h3",{className:`${L.heading3} text-black mb-4`,children:"Contact"}),T("div",{className:"px-4",children:[w("p",{className:`${L.paragraph} text-black pb-4`,children:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, suscipit enim temporibus voluptatibus sequi, quas deleniti dolores iusto eaque ipsam illo eum! Beatae voluptate velit, repellat reprehenderit sed temporibus dolorum! Exercitationem saepe, at fugiat sed ex tenetur officiis ab culpa, consequuntur quo dignissimos praesentium? Natus reprehenderit odit rerum ad possimus iusto impedit hic velit vitae illum. Earum nostrum quidem consectetur? Reprehenderit tempore in accusantium, repudiandae a autem sint cumque numquam distinctio qui praesentium? Molestiae commodi illo doloribus impedit, delectus soluta quam quaerat labore sit neque doloremque deserunt nam."}),w("p",{className:`${L.paragraph} text-black pb-4`,children:"Soluta, blanditiis. Maxime repellat, tempore qui nihil itaque pariatur eaque magni natus blanditiis dolorem fuga iusto nam consequuntur odit accusamus, repudiandae similique culpa quae iure! Accusamus natus nostrum vitae repudiandae voluptatum a. Quasi accusantium, optio quia ipsam distinctio velit totam odit voluptatem, animi unde dolor sint nam autem ea veniam assumenda quidem numquam mollitia ducimus rem deleniti delectus? Est ratione delectus nam. Rerum, et eum quidem tenetur voluptates dolor veniam rem mollitia, animi dolores minima tempore velit laboriosam iure quis architecto enim! Deserunt libero aliquam esse quod modi eveniet temporibus consectetur voluptates! Rerum ullam qui cumque est, recusandae dolor! Impedit debitis, ullam temporibus eos delectus ab nesciunt officiis doloremque maxime hic qui placeat, inventore asperiores quia ipsum sit."}),w("p",{className:`${L.paragraph} text-black pb-4`,children:"Deleniti asperiores eaque recusandae. Earum et, libero esse accusamus illum voluptatibus velit reiciendis aliquid totam sequi odio, quo nesciunt doloribus sed. At consectetur voluptas dolore, enim suscipit totam quis a, porro illum modi iste? Molestiae dolorem deserunt deleniti magnam rem architecto culpa quasi earum! Voluptate pariatur officia inventore, fugit distinctio dicta ratione voluptatum vel unde impedit obcaecati, nobis laborum quis, dolorem rem laudantium et. Dolores ullam est ut eveniet. Incidunt maiores facere asperiores mollitia natus vero fugiat officiis inventore minima, expedita et deleniti repellendus nostrum. Dolor ullam sunt incidunt dolorum impedit nisi ducimus voluptatibus? Tempora quod, porro placeat exercitationem beatae necessitatibus nesciunt fugit architecto earum possimus voluptatum quisquam animi aspernatur ipsa magnam pariatur dolorem ab! Molestiae distinctio in, ex consequuntur praesentium dolores totam sunt! Quibusdam eum repellendus blanditiis beatae, nemo dolores recusandae impedit veritatis unde tempora deserunt asperiores nisi dolore esse nostrum praesentium ab laborum soluta nihil fugit accusamus? Beatae praesentium dignissimos laboriosam animi. Ea, eum. Quisquam, nostrum? A enim excepturi, ad optio provident tenetur aut iste, nihil eaque cum totam laudantium ipsum maxime facilis omnis temporibus quam ut fuga. Ducimus est expedita voluptates! Deleniti, quos? Nemo recusandae dolores maxime cumque odit ratione at illum enim libero hic minima quidem delectus reiciendis esse aperiam laudantium similique, repudiandae voluptate sapiente veritatis magni nihil harum doloribus!"})]})]});var pr=(e=>(e.LOADING="loading",e.SUCCESS="success",e.ERROR="error",e))(pr||{});const ni=Xx("products/fetchProducts",async e=>await mc.getAll(e)),IS=e=>e.products.items,jS=e=>e.products.status,MS=e=>e.products.itemsPerPage,io=({title:e,productName:t,filters:n})=>{const[r,i]=P.useState(0),o=Ql(),l=fn(IS),a=fn(MS),s=fn(jS)===pr.LOADING,[u,c]=P.useState({type:"all",sortBy:"rating"});We.useEffect(()=>{try{o(ni({productName:t,...u,pageNumber:r}))}catch(m){console.log(m)}},[r]),We.useEffect(()=>{try{o(ni({productName:t,...u,pageNumber:0}))}catch(m){console.log(m)}},[u]);const h=(m,g)=>{c({...u,[m]:g})},f=[...new Array(12)].map((m,g)=>w(bh,{},g));return T("div",{className:"flex flex-col h-full",children:[T("div",{className:"flex justify-between flex-wrap p-8",children:[w("h3",{className:`${L.heading3} text-black sm:text-start mb-4`,children:e}),w(SS,{filters:n,onFilterChange:h})]}),w("div",{className:"flex flex-1 flex-wrap p-4",children:s?[...f]:l==null?void 0:l.map(m=>w(Hs,{...m},m.id))}),w(ES,{currentPage:r+1,itemsPerPage:a,onPageChange:m=>{i(m)}})]})},DS=()=>w("div",{className:"w-full",children:T(Ym,{children:[w(tt,{path:"/capacitors",element:w(io,{...no.capacitors})}),w(tt,{path:"/resistors",element:w(io,{...no.resistors})}),w(tt,{path:"/var-resistors",element:w(io,{...no.var_resistors})}),w(tt,{path:"/inductors",element:w(io,{...no.inductors})})]})});var Th={};const US=Fh(cv);var Ih;Object.defineProperty(Th,"__esModule",{value:!0});var ht=US,et=P,ve=function(){return ve=Object.assign||function(e){for(var t,n=1,r=arguments.length;n<r;n++)for(var i in t=arguments[n])Object.prototype.hasOwnProperty.call(t,i)&&(e[i]=t[i]);return e},ve.apply(this,arguments)};function xf(e,t,n){if(n||arguments.length===2)for(var r,i=0,o=t.length;i<o;i++)!r&&i in t||(r||(r=Array.prototype.slice.call(t,0,i)),r[i]=t[i]);return e.concat(r||Array.prototype.slice.call(t))}function Sf(e){var t=e.size,n=t===void 0?25:t,r=e.SVGstrokeColor,i=r===void 0?"currentColor":r,o=e.SVGstorkeWidth,l=o===void 0?0:o,a=e.SVGclassName,s=a===void 0?"star-svg":a,u=e.SVGstyle;return ht.jsx("svg",ve({className:s,style:u,stroke:i,fill:"currentColor",strokeWidth:l,viewBox:"0 0 24 24",width:n,height:n,xmlns:"http://www.w3.org/2000/svg"},{children:ht.jsx("path",{d:"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"})}))}function zS(e,t){switch(t.type){case"PointerMove":return ve(ve({},e),{hoverValue:t.payload,hoverIndex:t.index});case"PointerLeave":return ve(ve({},e),{ratingValue:e.ratingValue,hoverIndex:0,hoverValue:null});case"MouseClick":return ve(ve({},e),{valueIndex:e.hoverIndex,ratingValue:t.payload});default:return e}}var FS="style-module_starRatingWrap__q-lJC",$S="style-module_simpleStarRating__nWUxf",BS="style-module_fillIcons__6---A",VS="style-module_emptyIcons__Bg-FZ",WS="style-module_tooltip__tKc3i";function kf(){return typeof window<"u"&&window.matchMedia("(pointer: coarse)").matches||"ontouchstart"in window||typeof navigator<"u"&&navigator.maxTouchPoints>0}(function(e,t){t===void 0&&(t={});var n=t.insertAt;if(e&&typeof document<"u"){var r=document.head||document.getElementsByTagName("head")[0],i=document.createElement("style");i.type="text/css",n==="top"&&r.firstChild?r.insertBefore(i,r.firstChild):r.appendChild(i),i.styleSheet?i.styleSheet.cssText=e:i.appendChild(document.createTextNode(e))}})(".style-module_starRatingWrap__q-lJC{display:inline-block;touch-action:none}.style-module_simpleStarRating__nWUxf{display:inline-block;overflow:hidden;position:relative;touch-action:none;-webkit-user-select:none;-moz-user-select:none;user-select:none;vertical-align:middle;white-space:nowrap}.style-module_fillIcons__6---A{display:inline-block;overflow:hidden;position:absolute;top:0;white-space:nowrap}.style-module_emptyIcons__Bg-FZ{display:inline-block}.style-module_tooltip__tKc3i{background-color:#333;border-radius:5px;color:#fff;display:inline-block;padding:5px 15px;vertical-align:middle}"),Ih=Th.Rating=function(e){var t,n,r=e.onClick,i=e.onPointerMove,o=e.onPointerEnter,l=e.onPointerLeave,a=e.initialValue,s=a===void 0?0:a,u=e.iconsCount,c=u===void 0?5:u,h=e.size,f=h===void 0?40:h,m=e.readonly,g=m!==void 0&&m,y=e.rtl,S=y!==void 0&&y,p=e.customIcons,d=p===void 0?[]:p,v=e.allowFraction,x=v!==void 0&&v,C=e.style,O=e.className,E=O===void 0?"react-simple-star-rating":O,R=e.transition,F=R!==void 0&&R,D=e.allowHover,ee=D===void 0||D,I=e.disableFillHover,M=I!==void 0&&I,B=e.fillIcon,V=B===void 0?null:B,Ee=e.fillColor,xe=Ee===void 0?"#ffbc0b":Ee,b=e.fillColorArray,N=b===void 0?[]:b,k=e.fillStyle,U=e.fillClassName,_=U===void 0?"filled-icons":U,z=e.emptyIcon,$=z===void 0?null:z,G=e.emptyColor,X=G===void 0?"#cccccc":G,Se=e.emptyStyle,Rt=e.emptyClassName,kn=Rt===void 0?"empty-icons":Rt,Ct=e.allowTitleTag,Ue=Ct===void 0||Ct,ut=e.showTooltip,Pt=ut!==void 0&&ut,ct=e.tooltipDefaultText,re=ct===void 0?"Your Rate":ct,Te=e.tooltipArray,he=Te===void 0?[]:Te,ue=e.tooltipStyle,Cn=e.tooltipClassName,Rr=Cn===void 0?"react-simple-star-rating-tooltip":Cn,dt=e.SVGclassName,ft=dt===void 0?"star-svg":dt,Pn=e.titleSeparator,Kl=Pn===void 0?"out of":Pn,hc=e.SVGstyle,vc=e.SVGstorkeWidth,gc=vc===void 0?0:vc,yc=e.SVGstrokeColor,wc=yc===void 0?"currentColor":yc,xc=et.useReducer(zS,{hoverIndex:0,valueIndex:0,ratingValue:s,hoverValue:null}),Ii=xc[0],Ze=Ii.ratingValue,Ae=Ii.hoverValue,Gl=Ii.hoverIndex,Sc=Ii.valueIndex,ji=xc[1];et.useEffect(function(){s&&ji({type:"MouseClick",payload:0})},[s]);var Vt=et.useMemo(function(){return x?2*c:c},[x,c]),Wn=et.useMemo(function(){return s>Vt?0:x||Math.floor(s)===s?Math.round(s/c*100):2*Math.ceil(s)*10},[x,s,c,Vt]),kc=et.useMemo(function(){return(x?2*s-1:s-1)||0},[x,s]),Hn=et.useCallback(function(ae){return c%2!=0?ae/2/10:ae*c/100},[c]),Cc=function(ae){for(var Wt=ae.clientX,pt=ae.currentTarget.children[0].getBoundingClientRect(),Mh=pt.left,Dh=pt.right,Uh=pt.width,Ac=S?Dh-Wt:Wt-Mh,Mi=Vt,Oc=Math.round(Uh/Vt),Lr=0;Lr<=Vt;Lr+=1)if(Ac<=Oc*Lr){Mi=Lr===0&&Ac<Oc?0:Lr;break}var bc=Mi-1;Mi>0&&(ji({type:"PointerMove",payload:100*Mi/Vt,index:bc}),i&&Ae&&i(Hn(Ae),bc,ae))},Pc=function(ae){Ae&&(ji({type:"MouseClick",payload:Ae}),r&&r(Hn(Ae),Gl,ae))},jh=et.useMemo(function(){if(ee){if(M){var ae=Ze&&Ze||Wn;return Ae&&Ae>ae?Ae:ae}return Ae&&Ae||Ze&&Ze||Wn}return Ze&&Ze||Wn},[ee,M,Ae,Ze,Wn]);et.useEffect(function(){he.length>Vt&&console.error("tooltipArray Array length is bigger then Icons Count length.")},[he.length,Vt]);var Nc=et.useCallback(function(ae){return Ae&&ae[Gl]||Ze&&ae[Sc]||s&&ae[kc]},[Ae,Gl,Ze,Sc,s,kc]),Ec=et.useMemo(function(){return Ae&&Hn(Ae)||Ze&&Hn(Ze)||s&&Hn(Wn)},[Ae,Hn,Ze,s,Wn]);return ht.jsxs("span",ve({className:FS,style:{direction:"".concat(S?"rtl":"ltr")}},{children:[ht.jsxs("span",ve({className:"".concat($S," ").concat(E),style:ve({cursor:g?"":"pointer"},C),onPointerMove:g?void 0:Cc,onPointerEnter:g?void 0:function(ae){o&&o(ae),kf()&&Cc(ae)},onPointerLeave:g?void 0:function(ae){kf()&&Pc(),ji({type:"PointerLeave"}),l&&l(ae)},onClick:g?void 0:Pc,"aria-hidden":"true"},{children:[ht.jsx("span",ve({className:"".concat(VS," ").concat(kn),style:ve({color:X},Se)},{children:xf([],Array(c),!0).map(function(ae,Wt){var pt;return ht.jsx(et.Fragment,{children:((pt=d[Wt])===null||pt===void 0?void 0:pt.icon)||$||ht.jsx(Sf,{SVGclassName:ft,SVGstyle:hc,SVGstorkeWidth:gc,SVGstrokeColor:wc,size:f})},Wt)})})),ht.jsx("span",ve({className:"".concat(BS," ").concat(_),style:ve((t={},t[S?"right":"left"]=0,t.color=Nc(N)||xe,t.transition=F?"width .2s ease, color .2s ease":"",t.width="".concat(jh,"%"),t),k),title:Ue?"".concat(Ec," ").concat(Kl," ").concat(c):void 0},{children:xf([],Array(c),!0).map(function(ae,Wt){var pt;return ht.jsx(et.Fragment,{children:((pt=d[Wt])===null||pt===void 0?void 0:pt.icon)||V||ht.jsx(Sf,{SVGclassName:ft,SVGstyle:hc,SVGstorkeWidth:gc,SVGstrokeColor:wc,size:f})},Wt)})}))]})),Pt&&ht.jsx("span",ve({className:"".concat(WS," ").concat(Rr),style:ve((n={},n[S?"marginRight":"marginLeft"]=20,n),ue)},{children:(he.length>0?Nc(he):Ec)||re}))]}))};const HS=e=>{const t=Lh();t.filter(r=>r.id===e.id).length>0||(t.length>3&&t.shift(),t.push(e),localStorage.setItem("recent",JSON.stringify(t)))},qS={c:"capacitors",r:"resistors",i:"inductors",vr:"var-resistors"},QS=()=>{const e=Gu(),t=Ql(),{id:n}=H0(),[r,i]=P.useState(),[o,l]=We.useState(0);if(We.useEffect(()=>{(async()=>{try{if(!n)return;const{data:f}=await mc.getOne(n);i(f[0]),HS(f[0])}catch(f){console.log(f)}})()},[]),!r||!n)return w("div",{className:"flex justify-center items-center",children:w("img",{src:yf,alt:"preloader",className:"w-[100px] animate-spin"})});const a=qS[n.split("-")[0]],s=new Intl.NumberFormat("en-US",{style:"currency",currency:"USD"}).format(r.price),u=()=>{c(),e("/cart")},c=()=>{t(pc({product:r,selectedOption:r.options?r.options[o]:null}))};return T("div",{className:"flex flex-col w-full bg-white h-full",children:[w("div",{className:"block py-10 px-5",children:T(en,{to:`/c/${a}`,className:"m-2 p-8 md:p-10 bg-sky-300 text-[1.6rem] md:text-[2rem] text-white hover:shadow-lg hover:bg-sky-400",style:{clipPath:"polygon(5% 20%, 100% 20%, 100% 80%, 5% 80%, 0 50%)"},children:["Back to ",a]})}),!r||!n?w("div",{className:"flex justify-center items-center",children:w("img",{src:yf,alt:"preloader",className:"w-[100px] animate-spin"})}):T("div",{className:"flex flex-col md:flex-row justify-between flex-1 p-2",children:[w("div",{className:"flex-1 max-h-[400px] box-border p-10",children:w("img",{className:"h-full w-full object-contain bg-center",src:r.imageUrl,alt:r.title})}),T("div",{className:"flex-1 flex flex-col justify-between gap-8 p-4",children:[T("div",{className:"flex flex-col gap-8",children:[T("div",{className:"flex justify-between",children:[T("div",{className:"flex items-center",children:[w(Ih,{initialValue:r.rating,allowFraction:!0,iconsCount:5,readonly:!0,size:25,SVGstyle:{display:"inline"}}),w("span",{className:`${L.cap1} text-yellow-500 ml-2`,children:r.rating})]}),w("p",{className:`${L.cap1} text-sky-400 text-[2.2rem] ml-4`,children:s})]}),T("div",{children:[w("h3",{className:`${L.cap1} font-medium mb-2`,children:r.title}),w("p",{className:`${L.paragraph} text-gray-400`,children:r.description})]}),w("div",{children:r.optionName&&r.options&&T(il,{children:[w("p",{className:`${L.smallText} uppercase mb-3`,children:r.optionName}),w("ul",{className:"flex flex-wrap gap-4",children:r.options.map((h,f)=>w("li",{children:w("button",{onClick:()=>l(f),className:`${f===o?"border-sky-500":"border-transparent"} ${L.paragraph} p-2 border-2 border-solid bg-gray-300`,children:h})},f))})]})})]}),T("div",{className:"flex justify-between gap-8",children:[w("button",{onClick:u,className:`${L.smallText} relative flex-1 gap-4 p-3  text-white uppercase bg-sky-400 font-bold hover:top-1 hover:bg-sky-500 hover:shadow-md transition-all`,children:"Buy now"}),w("button",{onClick:c,className:`${L.smallText} relative flex-1 gap-4 p-3 text-[1.2rem] text-sky-500 uppercase border-solid border-2 border-sky-500 font-bold hover:top-1 hover:bg-sky-500 hover:shadow-md hover:text-white transition-all`,children:"Add to cart"})]})]})]})]})},KS=()=>{const e=fn(_h),t=fn(Rh),n=fn(yS),[r,i]=P.useState(0),[o,l]=P.useState(1),[a,s]=P.useState(""),u=new Intl.NumberFormat("en-US",{style:"currency",currency:"USD"}).format(n),c=[{text:"Standard delivery - $5.00",value:5},{text:"Free 15-day delivery",value:0},{text:"Quick delivery services - $12.00",value:12}],h=(y,S)=>{i(S)},f=new Intl.NumberFormat("en-US",{style:"currency",currency:"USD"}).format(r+n*o),m=()=>{l(a?.8:1)},g=Ah("(min-width: 768px)");return w("div",{className:"flex flex-row w-full",children:e.length===0?T("div",{className:"flex-1 flex flex-col justify-around items-center p-10 pt-0",children:[T("div",{children:[w("h3",{className:`${L.heading3} p-8 text-black text-center`,children:"Your cart is empty"}),w("p",{className:`${L.paragraph} text-center text-gray-500`,children:"There is nothing in your cart. Head to the home page to add items"})]}),w("img",{src:cS,alt:"empty bag",className:"w-[400px]"}),w(en,{to:"/",className:`${L.cap1} relative py-4 px-8 uppercase bg-sky-300 text-white hover:top-1 hover:bg-sky-400`,children:"Go to home page"})]}):T("div",{className:"flex flex-col lg:flex-row w-full",children:[T("div",{className:"basis-4/6",children:[w("h3",{className:`${L.heading3} text-black sm:text-start mb-4 p-8`,children:"Shopping cart"}),w("div",{children:w("div",{className:"flex flex-row w-full",children:T("div",{className:"w-full",children:[g&&T("div",{className:`${L.paragraph} flex uppercase text-gray-500 px-8`,children:[w("p",{className:"basis-6/12 text-center",children:"product details"}),w("p",{className:"basis-2/12 text-center",children:"quantity"}),w("p",{className:"basis-2/12 text-center",children:"price"}),w("p",{className:"basis-2/12 text-center",children:"total"})]}),w("div",{className:"flex flex-col gap-4 p-4 md:p-8",children:e.map(y=>P.createElement(kS,{...y,key:y.product.id+y.selectedOption}))})]})})})]}),T("div",{className:"basis-2/6 bg-gray-200",children:[w("h3",{className:`${L.heading3} text-black sm:text-start p-8`,children:"Order summary"}),T("div",{className:"flex flex-col gap-12 p-10",children:[T("div",{className:"flex justify-between",children:[T("p",{className:`${L.paragraph} font-medium uppercase`,children:["Items: ",t]}),w("p",{className:`${L.paragraph} font-medium`,children:u})]}),T("div",{className:"max-w-[400px]",children:[w("p",{className:`${L.paragraph} font-medium uppercase mb-4`,children:"Shipping"}),w(CS,{property:"shipping",options:c,onValueChange:h})]}),T("div",{className:"max-w-[400px]",children:[w("p",{className:`${L.paragraph} font-medium uppercase mb-4`,children:"Promo code"}),w("input",{onChange:({target:y})=>s(y.value),value:a,type:"text",className:`${L.paragraph} w-full p-5 placeholder:text-black border-2 border-solid border-transparent focus:border-blue-400`,placeholder:"Enter your code"})]}),w("div",{children:w("button",{onClick:m,className:`${L.smallText} bg-red-400 px-8 py-4 uppercase font-bold text-white relative hover:top-1 hover:bg-red-500 hover:shadow-lg`,children:"Apply"})}),T("div",{className:"flex justify-between pt-10 border-gray-300 border-solid border-t-2",children:[w("p",{className:`${L.paragraph} font-medium uppercase`,children:"Total cost"}),w("p",{className:`${L.paragraph} font-medium`,children:f})]}),w("button",{className:`${L.smallText} bg-blue-400 px-8 py-4 uppercase font-bold text-white relative hover:top-1 hover:bg-blue-500 hover:shadow-lg`,children:"Checkout"})]})]})]})})},GS=()=>T("div",{className:"App flex justify-center w-full",children:[T("div",{className:"flex flex-col items-center w-full min-h-[100vh] bg-sky-300",children:[w(wS,{}),w("main",{className:"flex-1 w-full flex justify-center max-w-[1300px] md:my-10 bg-[#f5f5f5]",children:T(Ym,{children:[w(tt,{path:"/",element:w(_S,{})}),w(tt,{path:"/about",element:w(RS,{})}),w(tt,{path:"/career",element:w(LS,{})}),w(tt,{path:"/contact",element:w(TS,{})}),w(tt,{path:"/c/*",element:w(DS,{})}),w(tt,{path:"/components/:id",element:w(QS,{})}),w(tt,{path:"/cart",element:w(KS,{})})]})}),w(ox,{})]}),w("div",{className:"fixed bottom-0 w-full",children:w(ix,{message:"This website uses cookies in order to offer you the most relevant information. Please accept cookies for optimal performance",cookie:"user-has-accepted-cookies",buttonMessage:"Yes, I accept cookies",dismissOnScroll:!1,className:"bg-sky-500",styles:{banner:{backgroundColor:"rgb(12, 74, 110)"},message:{fontWeight:400}}})})]});const YS={items:[],status:pr.LOADING,itemsPerPage:0},XS=Nh({name:"products",initialState:YS,reducers:{setItems(e,t){e.items=t.payload}},extraReducers:e=>{e.addCase(ni.pending,t=>{t.status=pr.LOADING}),e.addCase(ni.fulfilled,(t,n)=>{t.status=pr.SUCCESS,t.items=n.payload.data,t.itemsPerPage=n.payload.itemsPerPage}),e.addCase(ni.rejected,t=>{t.status=pr.ERROR,t.items=[]})}}),JS=XS.reducer,ZS=Vx({reducer:{products:JS,cart:oS}});Ma.createRoot(document.getElementById("root")).render(w(l1,{children:w(r0,{store:ZS,children:w(GS,{})})}));
+`,OS={c:"capacitors",r:"resistors",i:"inductors",vr:"var-resistors"},Ta=8;class bS{constructor(){}get(t,{productName:n,type:r,sortBy:i,pageNumber:o}){return new Promise((l,a)=>{const[,s,u]=t.split("/");if(s!=="components")return;setTimeout(c,650);function c(){if(s==="components"&&u==="recommend")g();else if(s==="components"&&u){const d=OS[u.split("-")[0]];m(u,d)}if(r==="all")return h(n);r&&f(n,r)}function h(d){const v=JSON.parse(ro)[d],x=v.length,C=S(v,i),O=y(C);return p(O,x)}function f(d,v){const x=JSON.parse(ro)[d].filter(R=>R.type===v),C=x.length,O=S(x,i),E=y(O);return p(E,C)}function m(d,v){const C=JSON.parse(ro)[v].find(O=>O.id===d);return C?p([C]):a("Product did not found")}function g(){const d=JSON.parse(ro),v=[d.capacitors[0],d.resistors[0],d["var-resistors"][0],d.inductors[0]];return p(v)}function y(d){return d.splice(o*Ta,Ta)}function S(d,v){if(!v)return d;switch(v){case"price":d.sort((x,C)=>C.price-x.price);case"-price":return d.sort((x,C)=>x.price-C.price);case"rating":return d.sort((x,C)=>C.rating-x.rating);case"-rating":return d.sort((x,C)=>x.rating-C.rating)}return d}function p(d,v){l({data:d,itemsPerPage:v?Math.floor(v/Ta):0})}})}}const Ia=new bS,mc={getAll(e){return Ia.get("/components",e)},getOne(e){return Ia.get(`/components/${e}`,{})},getRecommend(){return Ia.get("/components/recommend",{})}},Lh=()=>{const e=localStorage.getItem("recent");return e?JSON.parse(e):[]},_S=()=>{const[e,t]=P.useState(),[n,r]=P.useState(),i=[...new Array(4)].map((o,l)=>w(bh,{},l));return We.useEffect(()=>{(async()=>{try{const{data:l}=await mc.getRecommend();t(l),r(Lh())}catch(l){console.log(l)}})()},[]),T("div",{className:"p-6 w-full",children:[w(AS,{}),w("h3",{className:`${L.heading3} text-black sm:text-start mb-4`,children:"Categories"}),w("div",{className:"flex flex-wrap mb-20",children:gS.map(o=>P.createElement(lS,{...o,key:o.link}))}),T("div",{children:[w("h3",{className:`${L.heading3} text-black sm:text-start mb-4`,children:"Recommended"}),w("div",{className:"flex flex-1 flex-wrap p-4",children:e?e==null?void 0:e.map(o=>w(Hs,{...o},o.id)):[...i]})]}),n&&T("div",{children:[w("h3",{className:`${L.heading3} text-black sm:text-start mb-4`,children:"Recent"}),w("div",{className:"flex flex-1 flex-wrap p-4",children:n==null?void 0:n.map(o=>w(Hs,{...o},o.id))})]})]})},RS=()=>T("div",{className:"p-6",children:[w("h3",{className:`${L.heading3} text-black mb-4`,children:"About"}),T("div",{className:"px-4",children:[w("p",{className:`${L.paragraph} text-black pb-4`,children:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, suscipit enim temporibus voluptatibus sequi, quas deleniti dolores iusto eaque ipsam illo eum! Beatae voluptate velit, repellat reprehenderit sed temporibus dolorum! Exercitationem saepe, at fugiat sed ex tenetur officiis ab culpa, consequuntur quo dignissimos praesentium? Natus reprehenderit odit rerum ad possimus iusto impedit hic velit vitae illum. Earum nostrum quidem consectetur? Reprehenderit tempore in accusantium, repudiandae a autem sint cumque numquam distinctio qui praesentium? Molestiae commodi illo doloribus impedit, delectus soluta quam quaerat labore sit neque doloremque deserunt nam."}),w("p",{className:`${L.paragraph} text-black pb-4`,children:"Soluta, blanditiis. Maxime repellat, tempore qui nihil itaque pariatur eaque magni natus blanditiis dolorem fuga iusto nam consequuntur odit accusamus, repudiandae similique culpa quae iure! Accusamus natus nostrum vitae repudiandae voluptatum a. Quasi accusantium, optio quia ipsam distinctio velit totam odit voluptatem, animi unde dolor sint nam autem ea veniam assumenda quidem numquam mollitia ducimus rem deleniti delectus? Est ratione delectus nam. Rerum, et eum quidem tenetur voluptates dolor veniam rem mollitia, animi dolores minima tempore velit laboriosam iure quis architecto enim! Deserunt libero aliquam esse quod modi eveniet temporibus consectetur voluptates! Rerum ullam qui cumque est, recusandae dolor! Impedit debitis, ullam temporibus eos delectus ab nesciunt officiis doloremque maxime hic qui placeat, inventore asperiores quia ipsum sit."}),w("p",{className:`${L.paragraph} text-black pb-4`,children:"Deleniti asperiores eaque recusandae. Earum et, libero esse accusamus illum voluptatibus velit reiciendis aliquid totam sequi odio, quo nesciunt doloribus sed. At consectetur voluptas dolore, enim suscipit totam quis a, porro illum modi iste? Molestiae dolorem deserunt deleniti magnam rem architecto culpa quasi earum! Voluptate pariatur officia inventore, fugit distinctio dicta ratione voluptatum vel unde impedit obcaecati, nobis laborum quis, dolorem rem laudantium et. Dolores ullam est ut eveniet. Incidunt maiores facere asperiores mollitia natus vero fugiat officiis inventore minima, expedita et deleniti repellendus nostrum. Dolor ullam sunt incidunt dolorum impedit nisi ducimus voluptatibus? Tempora quod, porro placeat exercitationem beatae necessitatibus nesciunt fugit architecto earum possimus voluptatum quisquam animi aspernatur ipsa magnam pariatur dolorem ab! Molestiae distinctio in, ex consequuntur praesentium dolores totam sunt! Quibusdam eum repellendus blanditiis beatae, nemo dolores recusandae impedit veritatis unde tempora deserunt asperiores nisi dolore esse nostrum praesentium ab laborum soluta nihil fugit accusamus? Beatae praesentium dignissimos laboriosam animi. Ea, eum. Quisquam, nostrum? A enim excepturi, ad optio provident tenetur aut iste, nihil eaque cum totam laudantium ipsum maxime facilis omnis temporibus quam ut fuga. Ducimus est expedita voluptates! Deleniti, quos? Nemo recusandae dolores maxime cumque odit ratione at illum enim libero hic minima quidem delectus reiciendis esse aperiam laudantium similique, repudiandae voluptate sapiente veritatis magni nihil harum doloribus!"})]})]}),LS=()=>T("div",{className:"p-6",children:[w("h3",{className:`${L.heading3} text-black mb-4`,children:"Career"}),T("div",{className:"px-4",children:[w("p",{className:`${L.paragraph} text-black pb-4`,children:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, suscipit enim temporibus voluptatibus sequi, quas deleniti dolores iusto eaque ipsam illo eum! Beatae voluptate velit, repellat reprehenderit sed temporibus dolorum! Exercitationem saepe, at fugiat sed ex tenetur officiis ab culpa, consequuntur quo dignissimos praesentium? Natus reprehenderit odit rerum ad possimus iusto impedit hic velit vitae illum. Earum nostrum quidem consectetur? Reprehenderit tempore in accusantium, repudiandae a autem sint cumque numquam distinctio qui praesentium? Molestiae commodi illo doloribus impedit, delectus soluta quam quaerat labore sit neque doloremque deserunt nam."}),w("p",{className:`${L.paragraph} text-black pb-4`,children:"Soluta, blanditiis. Maxime repellat, tempore qui nihil itaque pariatur eaque magni natus blanditiis dolorem fuga iusto nam consequuntur odit accusamus, repudiandae similique culpa quae iure! Accusamus natus nostrum vitae repudiandae voluptatum a. Quasi accusantium, optio quia ipsam distinctio velit totam odit voluptatem, animi unde dolor sint nam autem ea veniam assumenda quidem numquam mollitia ducimus rem deleniti delectus? Est ratione delectus nam. Rerum, et eum quidem tenetur voluptates dolor veniam rem mollitia, animi dolores minima tempore velit laboriosam iure quis architecto enim! Deserunt libero aliquam esse quod modi eveniet temporibus consectetur voluptates! Rerum ullam qui cumque est, recusandae dolor! Impedit debitis, ullam temporibus eos delectus ab nesciunt officiis doloremque maxime hic qui placeat, inventore asperiores quia ipsum sit."}),w("p",{className:`${L.paragraph} text-black pb-4`,children:"Deleniti asperiores eaque recusandae. Earum et, libero esse accusamus illum voluptatibus velit reiciendis aliquid totam sequi odio, quo nesciunt doloribus sed. At consectetur voluptas dolore, enim suscipit totam quis a, porro illum modi iste? Molestiae dolorem deserunt deleniti magnam rem architecto culpa quasi earum! Voluptate pariatur officia inventore, fugit distinctio dicta ratione voluptatum vel unde impedit obcaecati, nobis laborum quis, dolorem rem laudantium et. Dolores ullam est ut eveniet. Incidunt maiores facere asperiores mollitia natus vero fugiat officiis inventore minima, expedita et deleniti repellendus nostrum. Dolor ullam sunt incidunt dolorum impedit nisi ducimus voluptatibus? Tempora quod, porro placeat exercitationem beatae necessitatibus nesciunt fugit architecto earum possimus voluptatum quisquam animi aspernatur ipsa magnam pariatur dolorem ab! Molestiae distinctio in, ex consequuntur praesentium dolores totam sunt! Quibusdam eum repellendus blanditiis beatae, nemo dolores recusandae impedit veritatis unde tempora deserunt asperiores nisi dolore esse nostrum praesentium ab laborum soluta nihil fugit accusamus? Beatae praesentium dignissimos laboriosam animi. Ea, eum. Quisquam, nostrum? A enim excepturi, ad optio provident tenetur aut iste, nihil eaque cum totam laudantium ipsum maxime facilis omnis temporibus quam ut fuga. Ducimus est expedita voluptates! Deleniti, quos? Nemo recusandae dolores maxime cumque odit ratione at illum enim libero hic minima quidem delectus reiciendis esse aperiam laudantium similique, repudiandae voluptate sapiente veritatis magni nihil harum doloribus!"})]})]}),TS=()=>T("div",{className:"p-6",children:[w("h3",{className:`${L.heading3} text-black mb-4`,children:"Contact"}),T("div",{className:"px-4",children:[w("p",{className:`${L.paragraph} text-black pb-4`,children:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, suscipit enim temporibus voluptatibus sequi, quas deleniti dolores iusto eaque ipsam illo eum! Beatae voluptate velit, repellat reprehenderit sed temporibus dolorum! Exercitationem saepe, at fugiat sed ex tenetur officiis ab culpa, consequuntur quo dignissimos praesentium? Natus reprehenderit odit rerum ad possimus iusto impedit hic velit vitae illum. Earum nostrum quidem consectetur? Reprehenderit tempore in accusantium, repudiandae a autem sint cumque numquam distinctio qui praesentium? Molestiae commodi illo doloribus impedit, delectus soluta quam quaerat labore sit neque doloremque deserunt nam."}),w("p",{className:`${L.paragraph} text-black pb-4`,children:"Soluta, blanditiis. Maxime repellat, tempore qui nihil itaque pariatur eaque magni natus blanditiis dolorem fuga iusto nam consequuntur odit accusamus, repudiandae similique culpa quae iure! Accusamus natus nostrum vitae repudiandae voluptatum a. Quasi accusantium, optio quia ipsam distinctio velit totam odit voluptatem, animi unde dolor sint nam autem ea veniam assumenda quidem numquam mollitia ducimus rem deleniti delectus? Est ratione delectus nam. Rerum, et eum quidem tenetur voluptates dolor veniam rem mollitia, animi dolores minima tempore velit laboriosam iure quis architecto enim! Deserunt libero aliquam esse quod modi eveniet temporibus consectetur voluptates! Rerum ullam qui cumque est, recusandae dolor! Impedit debitis, ullam temporibus eos delectus ab nesciunt officiis doloremque maxime hic qui placeat, inventore asperiores quia ipsum sit."}),w("p",{className:`${L.paragraph} text-black pb-4`,children:"Deleniti asperiores eaque recusandae. Earum et, libero esse accusamus illum voluptatibus velit reiciendis aliquid totam sequi odio, quo nesciunt doloribus sed. At consectetur voluptas dolore, enim suscipit totam quis a, porro illum modi iste? Molestiae dolorem deserunt deleniti magnam rem architecto culpa quasi earum! Voluptate pariatur officia inventore, fugit distinctio dicta ratione voluptatum vel unde impedit obcaecati, nobis laborum quis, dolorem rem laudantium et. Dolores ullam est ut eveniet. Incidunt maiores facere asperiores mollitia natus vero fugiat officiis inventore minima, expedita et deleniti repellendus nostrum. Dolor ullam sunt incidunt dolorum impedit nisi ducimus voluptatibus? Tempora quod, porro placeat exercitationem beatae necessitatibus nesciunt fugit architecto earum possimus voluptatum quisquam animi aspernatur ipsa magnam pariatur dolorem ab! Molestiae distinctio in, ex consequuntur praesentium dolores totam sunt! Quibusdam eum repellendus blanditiis beatae, nemo dolores recusandae impedit veritatis unde tempora deserunt asperiores nisi dolore esse nostrum praesentium ab laborum soluta nihil fugit accusamus? Beatae praesentium dignissimos laboriosam animi. Ea, eum. Quisquam, nostrum? A enim excepturi, ad optio provident tenetur aut iste, nihil eaque cum totam laudantium ipsum maxime facilis omnis temporibus quam ut fuga. Ducimus est expedita voluptates! Deleniti, quos? Nemo recusandae dolores maxime cumque odit ratione at illum enim libero hic minima quidem delectus reiciendis esse aperiam laudantium similique, repudiandae voluptate sapiente veritatis magni nihil harum doloribus!"})]})]});var pr=(e=>(e.LOADING="loading",e.SUCCESS="success",e.ERROR="error",e))(pr||{});const ni=Xx("products/fetchProducts",async e=>await mc.getAll(e)),IS=e=>e.products.items,jS=e=>e.products.status,MS=e=>e.products.itemsPerPage,io=({title:e,productName:t,filters:n})=>{const[r,i]=P.useState(0),o=Ql(),l=fn(IS),a=fn(MS),s=fn(jS)===pr.LOADING,[u,c]=P.useState({type:"all",sortBy:"rating"});We.useEffect(()=>{try{o(ni({productName:t,...u,pageNumber:r}))}catch(m){console.log(m)}},[r]),We.useEffect(()=>{try{o(ni({productName:t,...u,pageNumber:0}))}catch(m){console.log(m)}},[u]);const h=(m,g)=>{c({...u,[m]:g})},f=[...new Array(12)].map((m,g)=>w(bh,{},g));return T("div",{className:"flex flex-col h-full",children:[T("div",{className:"flex justify-between flex-wrap p-8",children:[w("h3",{className:`${L.heading3} text-black sm:text-start mb-4`,children:e}),w(SS,{filters:n,onFilterChange:h})]}),w("div",{className:"flex flex-1 flex-wrap p-4",children:s?[...f]:l==null?void 0:l.map(m=>w(Hs,{...m},m.id))}),w(ES,{currentPage:r+1,itemsPerPage:a,onPageChange:m=>{i(m)}})]})},DS=()=>w("div",{className:"w-full",children:T(Ym,{children:[w(tt,{path:"/capacitors",element:w(io,{...no.capacitors})}),w(tt,{path:"/resistors",element:w(io,{...no.resistors})}),w(tt,{path:"/var-resistors",element:w(io,{...no.var_resistors})}),w(tt,{path:"/inductors",element:w(io,{...no.inductors})})]})});var Th={};const US=Fh(cv);var Ih;Object.defineProperty(Th,"__esModule",{value:!0});var ht=US,et=P,ve=function(){return ve=Object.assign||function(e){for(var t,n=1,r=arguments.length;n<r;n++)for(var i in t=arguments[n])Object.prototype.hasOwnProperty.call(t,i)&&(e[i]=t[i]);return e},ve.apply(this,arguments)};function xf(e,t,n){if(n||arguments.length===2)for(var r,i=0,o=t.length;i<o;i++)!r&&i in t||(r||(r=Array.prototype.slice.call(t,0,i)),r[i]=t[i]);return e.concat(r||Array.prototype.slice.call(t))}function Sf(e){var t=e.size,n=t===void 0?25:t,r=e.SVGstrokeColor,i=r===void 0?"currentColor":r,o=e.SVGstorkeWidth,l=o===void 0?0:o,a=e.SVGclassName,s=a===void 0?"star-svg":a,u=e.SVGstyle;return ht.jsx("svg",ve({className:s,style:u,stroke:i,fill:"currentColor",strokeWidth:l,viewBox:"0 0 24 24",width:n,height:n,xmlns:"http://www.w3.org/2000/svg"},{children:ht.jsx("path",{d:"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"})}))}function zS(e,t){switch(t.type){case"PointerMove":return ve(ve({},e),{hoverValue:t.payload,hoverIndex:t.index});case"PointerLeave":return ve(ve({},e),{ratingValue:e.ratingValue,hoverIndex:0,hoverValue:null});case"MouseClick":return ve(ve({},e),{valueIndex:e.hoverIndex,ratingValue:t.payload});default:return e}}var FS="style-module_starRatingWrap__q-lJC",$S="style-module_simpleStarRating__nWUxf",BS="style-module_fillIcons__6---A",VS="style-module_emptyIcons__Bg-FZ",WS="style-module_tooltip__tKc3i";function kf(){return typeof window<"u"&&window.matchMedia("(pointer: coarse)").matches||"ontouchstart"in window||typeof navigator<"u"&&navigator.maxTouchPoints>0}(function(e,t){t===void 0&&(t={});var n=t.insertAt;if(e&&typeof document<"u"){var r=document.head||document.getElementsByTagName("head")[0],i=document.createElement("style");i.type="text/css",n==="top"&&r.firstChild?r.insertBefore(i,r.firstChild):r.appendChild(i),i.styleSheet?i.styleSheet.cssText=e:i.appendChild(document.createTextNode(e))}})(".style-module_starRatingWrap__q-lJC{display:inline-block;touch-action:none}.style-module_simpleStarRating__nWUxf{display:inline-block;overflow:hidden;position:relative;touch-action:none;-webkit-user-select:none;-moz-user-select:none;user-select:none;vertical-align:middle;white-space:nowrap}.style-module_fillIcons__6---A{display:inline-block;overflow:hidden;position:absolute;top:0;white-space:nowrap}.style-module_emptyIcons__Bg-FZ{display:inline-block}.style-module_tooltip__tKc3i{background-color:#333;border-radius:5px;color:#fff;display:inline-block;padding:5px 15px;vertical-align:middle}"),Ih=Th.Rating=function(e){var t,n,r=e.onClick,i=e.onPointerMove,o=e.onPointerEnter,l=e.onPointerLeave,a=e.initialValue,s=a===void 0?0:a,u=e.iconsCount,c=u===void 0?5:u,h=e.size,f=h===void 0?40:h,m=e.readonly,g=m!==void 0&&m,y=e.rtl,S=y!==void 0&&y,p=e.customIcons,d=p===void 0?[]:p,v=e.allowFraction,x=v!==void 0&&v,C=e.style,O=e.className,E=O===void 0?"react-simple-star-rating":O,R=e.transition,F=R!==void 0&&R,D=e.allowHover,ee=D===void 0||D,I=e.disableFillHover,M=I!==void 0&&I,B=e.fillIcon,V=B===void 0?null:B,Ee=e.fillColor,xe=Ee===void 0?"#ffbc0b":Ee,b=e.fillColorArray,N=b===void 0?[]:b,k=e.fillStyle,U=e.fillClassName,_=U===void 0?"filled-icons":U,z=e.emptyIcon,$=z===void 0?null:z,G=e.emptyColor,X=G===void 0?"#cccccc":G,Se=e.emptyStyle,Rt=e.emptyClassName,kn=Rt===void 0?"empty-icons":Rt,Ct=e.allowTitleTag,Ue=Ct===void 0||Ct,ut=e.showTooltip,Pt=ut!==void 0&&ut,ct=e.tooltipDefaultText,re=ct===void 0?"Your Rate":ct,Te=e.tooltipArray,he=Te===void 0?[]:Te,ue=e.tooltipStyle,Cn=e.tooltipClassName,Rr=Cn===void 0?"react-simple-star-rating-tooltip":Cn,dt=e.SVGclassName,ft=dt===void 0?"star-svg":dt,Pn=e.titleSeparator,Kl=Pn===void 0?"out of":Pn,hc=e.SVGstyle,vc=e.SVGstorkeWidth,gc=vc===void 0?0:vc,yc=e.SVGstrokeColor,wc=yc===void 0?"currentColor":yc,xc=et.useReducer(zS,{hoverIndex:0,valueIndex:0,ratingValue:s,hoverValue:null}),Ii=xc[0],Ze=Ii.ratingValue,Ae=Ii.hoverValue,Gl=Ii.hoverIndex,Sc=Ii.valueIndex,ji=xc[1];et.useEffect(function(){s&&ji({type:"MouseClick",payload:0})},[s]);var Vt=et.useMemo(function(){return x?2*c:c},[x,c]),Wn=et.useMemo(function(){return s>Vt?0:x||Math.floor(s)===s?Math.round(s/c*100):2*Math.ceil(s)*10},[x,s,c,Vt]),kc=et.useMemo(function(){return(x?2*s-1:s-1)||0},[x,s]),Hn=et.useCallback(function(ae){return c%2!=0?ae/2/10:ae*c/100},[c]),Cc=function(ae){for(var Wt=ae.clientX,pt=ae.currentTarget.children[0].getBoundingClientRect(),Mh=pt.left,Dh=pt.right,Uh=pt.width,Ac=S?Dh-Wt:Wt-Mh,Mi=Vt,Oc=Math.round(Uh/Vt),Lr=0;Lr<=Vt;Lr+=1)if(Ac<=Oc*Lr){Mi=Lr===0&&Ac<Oc?0:Lr;break}var bc=Mi-1;Mi>0&&(ji({type:"PointerMove",payload:100*Mi/Vt,index:bc}),i&&Ae&&i(Hn(Ae),bc,ae))},Pc=function(ae){Ae&&(ji({type:"MouseClick",payload:Ae}),r&&r(Hn(Ae),Gl,ae))},jh=et.useMemo(function(){if(ee){if(M){var ae=Ze&&Ze||Wn;return Ae&&Ae>ae?Ae:ae}return Ae&&Ae||Ze&&Ze||Wn}return Ze&&Ze||Wn},[ee,M,Ae,Ze,Wn]);et.useEffect(function(){he.length>Vt&&console.error("tooltipArray Array length is bigger then Icons Count length.")},[he.length,Vt]);var Nc=et.useCallback(function(ae){return Ae&&ae[Gl]||Ze&&ae[Sc]||s&&ae[kc]},[Ae,Gl,Ze,Sc,s,kc]),Ec=et.useMemo(function(){return Ae&&Hn(Ae)||Ze&&Hn(Ze)||s&&Hn(Wn)},[Ae,Hn,Ze,s,Wn]);return ht.jsxs("span",ve({className:FS,style:{direction:"".concat(S?"rtl":"ltr")}},{children:[ht.jsxs("span",ve({className:"".concat($S," ").concat(E),style:ve({cursor:g?"":"pointer"},C),onPointerMove:g?void 0:Cc,onPointerEnter:g?void 0:function(ae){o&&o(ae),kf()&&Cc(ae)},onPointerLeave:g?void 0:function(ae){kf()&&Pc(),ji({type:"PointerLeave"}),l&&l(ae)},onClick:g?void 0:Pc,"aria-hidden":"true"},{children:[ht.jsx("span",ve({className:"".concat(VS," ").concat(kn),style:ve({color:X},Se)},{children:xf([],Array(c),!0).map(function(ae,Wt){var pt;return ht.jsx(et.Fragment,{children:((pt=d[Wt])===null||pt===void 0?void 0:pt.icon)||$||ht.jsx(Sf,{SVGclassName:ft,SVGstyle:hc,SVGstorkeWidth:gc,SVGstrokeColor:wc,size:f})},Wt)})})),ht.jsx("span",ve({className:"".concat(BS," ").concat(_),style:ve((t={},t[S?"right":"left"]=0,t.color=Nc(N)||xe,t.transition=F?"width .2s ease, color .2s ease":"",t.width="".concat(jh,"%"),t),k),title:Ue?"".concat(Ec," ").concat(Kl," ").concat(c):void 0},{children:xf([],Array(c),!0).map(function(ae,Wt){var pt;return ht.jsx(et.Fragment,{children:((pt=d[Wt])===null||pt===void 0?void 0:pt.icon)||V||ht.jsx(Sf,{SVGclassName:ft,SVGstyle:hc,SVGstorkeWidth:gc,SVGstrokeColor:wc,size:f})},Wt)})}))]})),Pt&&ht.jsx("span",ve({className:"".concat(WS," ").concat(Rr),style:ve((n={},n[S?"marginRight":"marginLeft"]=20,n),ue)},{children:(he.length>0?Nc(he):Ec)||re}))]}))};const HS=e=>{const t=Lh();t.filter(r=>r.id===e.id).length>0||(t.length>3&&t.shift(),t.push(e),localStorage.setItem("recent",JSON.stringify(t)))},qS={c:"capacitors",r:"resistors",i:"inductors",vr:"var-resistors"},QS=()=>{const e=Gu(),t=Ql(),{id:n}=H0(),[r,i]=P.useState(),[o,l]=We.useState(0);if(We.useEffect(()=>{(async()=>{try{if(!n)return;const{data:f}=await mc.getOne(n);i(f[0]),HS(f[0])}catch(f){console.log(f)}})()},[]),!r||!n)return w("div",{className:"flex justify-center items-center",children:w("img",{src:yf,alt:"preloader",className:"w-[100px] animate-spin"})});const a=qS[n.split("-")[0]],s=new Intl.NumberFormat("en-US",{style:"currency",currency:"USD"}).format(r.price),u=()=>{c(),e("/cart")},c=()=>{t(pc({product:r,selectedOption:r.options?r.options[o]:null}))};return T("div",{className:"flex flex-col w-full bg-white h-full",children:[w("div",{className:"block py-10 px-5",children:T(en,{to:`/c/${a}`,className:"m-2 p-8 md:p-10 bg-sky-300 text-[1.6rem] md:text-[2rem] text-white hover:shadow-lg hover:bg-sky-400",style:{clipPath:"polygon(5% 20%, 100% 20%, 100% 80%, 5% 80%, 0 50%)"},children:["Back to ",a]})}),!r||!n?w("div",{className:"flex justify-center items-center",children:w("img",{src:yf,alt:"preloader",className:"w-[100px] animate-spin"})}):T("div",{className:"flex flex-col md:flex-row justify-between flex-1 p-2",children:[w("div",{className:"flex-1 max-h-[400px] box-border p-10",children:w("img",{className:"h-full w-full object-contain bg-center",src:r.imageUrl,alt:r.title})}),T("div",{className:"flex-1 flex flex-col justify-between gap-8 p-4",children:[T("div",{className:"flex flex-col gap-8",children:[T("div",{className:"flex justify-between",children:[T("div",{className:"flex items-center",children:[w(Ih,{initialValue:r.rating,allowFraction:!0,iconsCount:5,readonly:!0,size:25,SVGstyle:{display:"inline"}}),w("span",{className:`${L.cap1} text-yellow-500 ml-2`,children:r.rating})]}),w("p",{className:`${L.cap1} text-sky-400 text-[2.2rem] ml-4`,children:s})]}),T("div",{children:[w("h3",{className:`${L.cap1} font-medium mb-2`,children:r.title}),w("p",{className:`${L.paragraph} text-gray-400`,children:r.description})]}),w("div",{children:r.optionName&&r.options&&T(il,{children:[w("p",{className:`${L.smallText} uppercase mb-3`,children:r.optionName}),w("ul",{className:"flex flex-wrap gap-4",children:r.options.map((h,f)=>w("li",{children:w("button",{onClick:()=>l(f),className:`${f===o?"border-sky-500":"border-transparent"} ${L.paragraph} p-2 border-2 border-solid bg-gray-300`,children:h})},f))})]})})]}),T("div",{className:"flex justify-between gap-8",children:[w("button",{onClick:u,className:`${L.smallText} relative flex-1 gap-4 p-3  text-white uppercase bg-sky-400 font-bold hover:top-1 hover:bg-sky-500 hover:shadow-md transition-all`,children:"Buy now"}),w("button",{onClick:c,className:`${L.smallText} relative flex-1 gap-4 p-3 text-[1.2rem] text-sky-500 uppercase border-solid border-2 border-sky-500 font-bold hover:top-1 hover:bg-sky-500 hover:shadow-md hover:text-white transition-all`,children:"Add to cart"})]})]})]})]})},KS=()=>{const e=fn(_h),t=fn(Rh),n=fn(yS),[r,i]=P.useState(0),[o,l]=P.useState(1),[a,s]=P.useState(""),u=new Intl.NumberFormat("en-US",{style:"currency",currency:"USD"}).format(n),c=[{text:"Standard delivery - $5.00",value:5},{text:"Free 15-day delivery",value:0},{text:"Quick delivery services - $12.00",value:12}],h=(y,S)=>{i(S)},f=new Intl.NumberFormat("en-US",{style:"currency",currency:"USD"}).format(r+n*o),m=()=>{l(a?.8:1)},g=Ah("(min-width: 768px)");return w("div",{className:"flex flex-row w-full",children:e.length===0?T("div",{className:"flex-1 flex flex-col justify-around items-center p-10 pt-0",children:[T("div",{children:[w("h3",{className:`${L.heading3} p-8 text-black text-center`,children:"Your cart is empty"}),w("p",{className:`${L.paragraph} text-center text-gray-500`,children:"There is nothing in your cart. Head to the home page to add items"})]}),w("img",{src:cS,alt:"empty bag",className:"w-[400px]"}),w(en,{to:"/",className:`${L.cap1} relative py-4 px-8 uppercase bg-sky-300 text-white hover:top-1 hover:bg-sky-400`,children:"Go to home page"})]}):T("div",{className:"flex flex-col lg:flex-row w-full",children:[T("div",{className:"basis-4/6",children:[w("h3",{className:`${L.heading3} text-black sm:text-start mb-4 p-8`,children:"Shopping cart"}),w("div",{children:w("div",{className:"flex flex-row w-full",children:T("div",{className:"w-full",children:[g&&T("div",{className:`${L.paragraph} flex uppercase text-gray-500 px-8`,children:[w("p",{className:"basis-6/12 text-center",children:"product details"}),w("p",{className:"basis-2/12 text-center",children:"quantity"}),w("p",{className:"basis-2/12 text-center",children:"price"}),w("p",{className:"basis-2/12 text-center",children:"total"})]}),w("div",{className:"flex flex-col gap-4 p-4 md:p-8",children:e.map(y=>P.createElement(kS,{...y,key:y.product.id+y.selectedOption}))})]})})})]}),T("div",{className:"basis-2/6 bg-gray-200",children:[w("h3",{className:`${L.heading3} text-black sm:text-start p-8`,children:"Order summary"}),T("div",{className:"flex flex-col gap-12 p-10",children:[T("div",{className:"flex justify-between",children:[T("p",{className:`${L.paragraph} font-medium uppercase`,children:["Items: ",t]}),w("p",{className:`${L.paragraph} font-medium`,children:u})]}),T("div",{className:"max-w-[400px]",children:[w("p",{className:`${L.paragraph} font-medium uppercase mb-4`,children:"Shipping"}),w(CS,{property:"shipping",options:c,onValueChange:h})]}),T("div",{className:"max-w-[400px]",children:[w("p",{className:`${L.paragraph} font-medium uppercase mb-4`,children:"Promo code"}),w("input",{onChange:({target:y})=>s(y.value),value:a,type:"text",className:`${L.paragraph} w-full p-5 placeholder:text-black border-2 border-solid border-transparent focus:border-blue-400`,placeholder:"Enter your code"})]}),w("div",{children:w("button",{onClick:m,className:`${L.smallText} bg-red-400 px-8 py-4 uppercase font-bold text-white relative hover:top-1 hover:bg-red-500 hover:shadow-lg`,children:"Apply"})}),T("div",{className:"flex justify-between pt-10 border-gray-300 border-solid border-t-2",children:[w("p",{className:`${L.paragraph} font-medium uppercase`,children:"Total cost"}),w("p",{className:`${L.paragraph} font-medium`,children:f})]}),w("button",{className:`${L.smallText} bg-blue-400 px-8 py-4 uppercase font-bold text-white relative hover:top-1 hover:bg-blue-500 hover:shadow-lg`,children:"Checkout"})]})]})]})})},GS=()=>T("div",{className:"App flex justify-center w-full",children:[T("div",{className:"flex flex-col items-center w-full min-h-[100vh] bg-sky-300",children:[w(wS,{}),w("main",{className:"flex-1 w-full flex justify-center max-w-[1300px] md:my-10 bg-[#f5f5f5]",children:T(Ym,{children:[w(tt,{path:"/",element:w(_S,{})}),w(tt,{path:"/about",element:w(RS,{})}),w(tt,{path:"/career",element:w(LS,{})}),w(tt,{path:"/contact",element:w(TS,{})}),w(tt,{path:"/c/*",element:w(DS,{})}),w(tt,{path:"/components/:id",element:w(QS,{})}),w(tt,{path:"/cart",element:w(KS,{})})]})}),w(ox,{})]}),w("div",{className:"fixed bottom-0 w-full",children:w(ix,{message:"This website uses cookies in order to offer you the most relevant information. Please accept cookies for optimal performance",cookie:"user-has-accepted-cookies",buttonMessage:"Yes, I accept cookies",dismissOnScroll:!1,className:"bg-sky-500",styles:{banner:{backgroundColor:"rgb(12, 74, 110)"},message:{fontWeight:400}}})})]});const YS={items:[],status:pr.LOADING,itemsPerPage:0},XS=Nh({name:"products",initialState:YS,reducers:{setItems(e,t){e.items=t.payload}},extraReducers:e=>{e.addCase(ni.pending,t=>{t.status=pr.LOADING}),e.addCase(ni.fulfilled,(t,n)=>{t.status=pr.SUCCESS,t.items=n.payload.data,t.itemsPerPage=n.payload.itemsPerPage}),e.addCase(ni.rejected,t=>{t.status=pr.ERROR,t.items=[]})}}),JS=XS.reducer,ZS=Vx({reducer:{products:JS,cart:oS}});Ma.createRoot(document.getElementById("root")).render(w(l1,{children:w(r0,{store:ZS,children:w(GS,{})})}));

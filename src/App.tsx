@@ -5,9 +5,8 @@ import CookieBanner from "react-cookie-banner";
 
 import {
   Home,
-  About,
-  Career,
-  Contact,
+  Profile,
+  Contacts,
   Categories,
   ProductPage,
   Cart,
@@ -22,9 +21,8 @@ const App: React.FC = () => {
         <main className="flex-1 w-full flex justify-center max-w-[1300px] md:my-10 bg-[#f5f5f5]">
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/about" element={<About />} />
-            <Route path="/career" element={<Career />} />
-            <Route path="/contact" element={<Contact />} />
+            <Route path="/profile" element={<Profile />} />
+            <Route path="/contacts" element={<Contacts />} />
             <Route path="/c/*" element={<Categories />} />
             <Route path="/components/:id" element={<ProductPage />} />
             <Route path="/cart" element={<Cart />} />
