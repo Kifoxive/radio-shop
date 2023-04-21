@@ -34,19 +34,19 @@ const Home: React.FC = () => {
   return (
     <div className="p-6 w-full">
       <Hero />
-      <h3 className={`${styles.heading3} text-black sm:text-start mb-4`}>
+      <h3 className={`${styles.heading3} text-black sm:text-start`}>
         Categories
       </h3>
-      <div className="flex flex-wrap mb-20">
+      <div className="flex flex-wrap mt-4">
         {categories.map((item) => (
           <CategoryCard {...item} key={item.link} />
         ))}
       </div>
-      <div className="mb-20">
+      <div className="mt-20">
         <h3 className={`${styles.heading3} text-black sm:text-start mb-4`}>
           Recommended
         </h3>
-        <div className="flex flex-1 flex-wrap p-4">
+        <div className="flex flex-1 flex-wrap">
           {!recommendProducts
             ? [...skeletons]
             : recommendProducts?.map((item) => (
@@ -54,12 +54,12 @@ const Home: React.FC = () => {
               ))}
         </div>
       </div>
-      {recentProducts && (
+      {recentProducts && recentProducts.length > 0 && (
         <div>
-          <h3 className={`${styles.heading3} text-black sm:text-start mb-4`}>
+          <h3 className={`${styles.heading3} text-black sm:text-start mt-20`}>
             Recent
           </h3>
-          <div className="flex flex-1 flex-wrap p-4">
+          <div className="flex flex-1 flex-wrap">
             {recentProducts?.map((item) => (
               <ProductCard key={item.id} {...item} />
             ))}

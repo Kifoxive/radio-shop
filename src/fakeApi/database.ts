@@ -173,7 +173,7 @@ const database = `{
       "description": "RS PRO Carbon Resistor 0.25W ±5%",
       "price": 0.16,
       "rating": 4.1,
-      "imageUrl": "assets/r-fi-1ko.webp",
+      "imageUrl": "assets/r-fi-1ko.jpeg",
       "type": "film",
       "componentName": "resistors",
       "id": "r-fi-1ko"
@@ -183,7 +183,7 @@ const database = `{
       "description": "RS PRO Carbon Resistor 0.25W ±5%",
       "price": 0.22,
       "rating": 4.2,
-      "imageUrl": "assets/r-fi-4.7ko.webp",
+      "imageUrl": "assets/r-fi-4.7ko.jpeg",
       "type": "film",
       "componentName": "resistors",
       "id": "r-fi-4.7ko"
@@ -193,7 +193,7 @@ const database = `{
       "description": "RS PRO Carbon Resistor 0.25W ±5%",
       "price": 0.27,
       "rating": 4.8,
-      "imageUrl": "assets/r-fi-10ko.webp",
+      "imageUrl": "assets/r-fi-10ko.jpeg",
       "type": "film",
       "componentName": "resistors",
       "id": "r-fi-10ko"
@@ -213,7 +213,7 @@ const database = `{
       "description": "RS PRO Carbon Resistor 0.25W ±5%",
       "price": 0.08,
       "rating": 4.6,
-      "imageUrl": "assets/r-fi-100o.webp",
+      "imageUrl": "assets/r-fi-100o.jpeg",
       "type": "film",
       "componentName": "resistors",
       "id": "r-fi-100o"

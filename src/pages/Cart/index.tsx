@@ -18,7 +18,7 @@ const Cart: React.FC = () => {
   const totalPrice = useAppSelector(getTotalPrice);
   const [shippingCost, setShippingCost] = useState(0);
   const [discount, setDiscount] = useState(1);
-  const [codeValue, setCodeValue] = useState("");
+  const [promocodeValue, setPromocodeValue] = useState("");
 
   const formattedTotalPrice = new Intl.NumberFormat("en-US", {
     style: "currency",
@@ -41,7 +41,7 @@ const Cart: React.FC = () => {
   }).format(shippingCost + totalPrice * discount);
 
   const applyCode = () => {
-    codeValue ? setDiscount(0.8) : setDiscount(1);
+    promocodeValue ? setDiscount(0.8) : setDiscount(1);
   };
   const matches = useMediaQuery("(min-width: 768px)");
 
@@ -125,12 +125,16 @@ const Cart: React.FC = () => {
                 />
               </div>
               <div className="max-w-[400px]">
-                <p className={`${styles.paragraph} font-medium uppercase mb-4`}>
+                <label
+                  htmlFor="promocode"
+                  className={`${styles.paragraph} font-medium uppercase mb-4`}
+                >
                   Promo code
-                </p>
+                </label>
                 <input
-                  onChange={({ target }) => setCodeValue(target.value)}
-                  value={codeValue}
+                  id="promocode"
+                  onChange={({ target }) => setPromocodeValue(target.value)}
+                  value={promocodeValue}
                   type="text"
                   className={`${styles.paragraph} w-full p-5 placeholder:text-black border-2 border-solid border-transparent focus:border-blue-400`}
                   placeholder="Enter your code"

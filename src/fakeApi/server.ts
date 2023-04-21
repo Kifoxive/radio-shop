@@ -11,11 +11,9 @@ const radioComponents: { [index: string]: string } = {
 const itemsPerPage = 8;
 
 export default class Api {
-  constructor() {}
-
   public get(
     fullPath: string,
-    { productName, type, sortBy, pageNumber }: SearchProductParams
+    { productName, type = "all", sortBy, pageNumber }: SearchProductParams
   ) {
     return new Promise<{ data: IProductCard[]; itemsPerPage: number }>(
       (resolve, reject) => {
@@ -29,33 +27,22 @@ export default class Api {
           } else if (path === "components" && id) {
             const componentName = radioComponents[id.split("-")[0]];
             getById(id, componentName);
-          }
-
-          if (type === "all") return getAll(productName);
-          else if (type) {
-            getByType(productName, type);
-          }
+          } else getProducts(productName, type);
         }
 
         // route functions
-        function getAll(productName: string) {
-          const itemsObj: IProductCard[] = JSON.parse(database)[productName];
-          const itemsLength = itemsObj.length;
 
-          const sorted = sort(itemsObj, sortBy);
-          const paginatedPart = paginate(sorted);
-          return ok(paginatedPart, itemsLength);
-        }
-
-        function getByType(productName: string, type: string) {
+        function getProducts(productName: string, type: string) {
           const itemsObj: IProductCard[] = JSON.parse(database)[
             productName
-          ].filter((item: IProductCard) => item.type === type);
+          ].filter((item: IProductCard) =>
+            type === "all" ? true : item.type === type
+          );
           const itemsLength = itemsObj.length;
 
           const sorted = sort(itemsObj, sortBy);
           const paginatedPart = paginate(sorted);
-          return ok(paginatedPart, itemsLength);
+          ok(paginatedPart, itemsLength);
         }
 
         function getById(id: string, componentName: string) {
@@ -90,7 +77,7 @@ export default class Api {
           if (!property) return itemsObj;
           switch (property) {
             case "price":
-              itemsObj.sort((a, b) => b.price - a.price);
+              return itemsObj.sort((a, b) => b.price - a.price);
 
             case "-price":
               return itemsObj.sort((a, b) => a.price - b.price);

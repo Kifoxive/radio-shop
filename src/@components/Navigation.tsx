@@ -61,6 +61,7 @@ const Navigation: React.FC = () => {
           </div>
           <div className="flex md:hidden p-4">
             <button
+              title="menu"
               onClick={() => setShowMenu(true)}
               style={{
                 background: `url(${menu}) center 100% / contain no-repeat`,
@@ -74,6 +75,7 @@ const Navigation: React.FC = () => {
             >
               <div className="px-4">
                 <button
+                  title="close"
                   onClick={() => setShowMenu(false)}
                   style={{
                     background: `url(${close}) center 100% / contain no-repeat`,

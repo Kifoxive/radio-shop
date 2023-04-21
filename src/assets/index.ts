@@ -5,6 +5,7 @@ export { default as processor } from "./processor.png";
 export { default as cart } from "./shopping-cart.png";
 export { default as empty_cart } from "./empty-cart.png";
 export { default as list_arrow } from "./list-arrow.svg";
+export { default as back_arrow } from "./back-arrow.png";
 
 export { default as capacitor } from "./capacitor.png";
 export { default as resistor } from "./resistor.png";

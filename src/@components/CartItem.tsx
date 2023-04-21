@@ -87,8 +87,9 @@ const CartItem: React.FC<ICartItem> = ({ product, selectedOption, count }) => {
             >
               +
             </button>
-            <div className="border-gray-300 border-2 border-solid ">
+            <div className="border-gray-300 border-2 border-solid">
               <input
+                title="quantity"
                 type="text"
                 value={count}
                 onChange={({ target }) => onSetItemQuantity(+target.value)}
@@ -142,21 +143,44 @@ const CartItem: React.FC<ICartItem> = ({ product, selectedOption, count }) => {
             </div>
             {/* content - options */}
             <div className="flex items-center flex-wrap gap-2 max-w-[300px]">
-              <div className="flex justify-between w-full items-center">
+              <div className="flex justify-between w-full">
+                <p className={`${styles.smallText} uppercase text-gray-500`}>
+                  Price
+                </p>
+                <p className={`${styles.paragraph} text-sky-400 text-center`}>
+                  {formattedPrice}
+                </p>
+              </div>
+
+              <div className="flex justify-between w-full mt-2">
+                <span className={`${styles.smallText} uppercase text-gray-500`}>
+                  Total
+                </span>
                 <span
-                  className={`${styles.smallText} uppercase text-gray-500 mr-4`}
+                  className={`${styles.paragraph} text-sky-400 text-center`}
+                >
+                  {formattedTotalPrice}
+                </span>
+              </div>
+
+              <div className="flex justify-between w-full items-center">
+                <label
+                  htmlFor="quantity"
+                  className={`${styles.smallText} uppercase text-gray-500`}
                 >
                   Quantity
-                </span>
+                </label>
+
                 <div className="flex items-center">
                   <button
                     onClick={onIncreaseItem}
-                    className={`${styles.cap1} mr-1 px-4 font-bold`}
+                    className={`${styles.cap1} px-4 py-2 font-bold`}
                   >
                     +
                   </button>
                   <div className="border-gray-300 border-2 border-solid ">
                     <input
+                      id="quantity"
                       type="text"
                       value={count}
                       onChange={({ target }) =>
@@ -167,35 +191,11 @@ const CartItem: React.FC<ICartItem> = ({ product, selectedOption, count }) => {
                   </div>
                   <button
                     onClick={onDecreaseItem}
-                    className={`${styles.cap1} ml-1 px-4 font-bold`}
+                    className={`${styles.cap1} px-4 py-2 font-bold`}
                   >
                     –
                   </button>
                 </div>
-              </div>
-
-              <div className="flex justify-between w-full">
-                <p
-                  className={`${styles.smallText} uppercase text-gray-500 mr-4`}
-                >
-                  Price
-                </p>
-                <p className={`${styles.paragraph} text-sky-400 text-center`}>
-                  {formattedPrice}
-                </p>
-              </div>
-
-              <div className="flex justify-between w-full">
-                <span
-                  className={`${styles.smallText} uppercase text-gray-500 mr-4`}
-                >
-                  Total
-                </span>
-                <span
-                  className={`${styles.paragraph} text-sky-400 text-center`}
-                >
-                  {formattedTotalPrice}
-                </span>
               </div>
             </div>
           </div>

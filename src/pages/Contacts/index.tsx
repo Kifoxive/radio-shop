@@ -11,8 +11,8 @@ const Contact: React.FC = () => {
           <p className={`${styles.paragraph} mb-4`}>
             For business questions, contact us in a way convenient for you:
           </p>
-          <p className={`${styles.paragraph} pl-4`}>+420 123 456 789</p>
-          <p className={`${styles.paragraph} pl-4`}>johndoe@example.com</p>
+          <p className={`${styles.paragraph} pl-2`}>+420 123 456 789</p>
+          <p className={`${styles.paragraph} pl-2`}>johndoe@example.com</p>
         </div>
         <p className={`${styles.paragraph} text-black pb-4`}>
           We actively post on our social networks various interesting things for
@@ -20,7 +20,7 @@ const Contact: React.FC = () => {
           by the world's top companies. Follow us and don't forget to comment
           and share with others ;-)
         </p>
-        <ul className="flex gap-4 pb-4 pl-4">
+        <ul className="flex gap-4 pb-4 pl-2">
           {socialMediaLinks.map((item) => (
             <li key={item.name} className="relative hover:-top-1">
               <a href={item.link}>

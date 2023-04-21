@@ -6,21 +6,14 @@ import { IProductCard } from "redux/products/types";
 import { itemsApi } from "../../fakeApi/api";
 import { Rating } from "react-simple-star-rating";
 import { Link } from "react-router-dom";
-import { loading } from "../../assets";
+import { back_arrow, loading } from "../../assets";
 import { useAppDispatch } from "../../redux/hooks";
 import { addToCart } from "../../redux/cart/slice";
 import { ICartItem } from "../../redux/cart/types";
 import addRecentToLS from "../../utils/addRecentToLS";
 
-export const radioComponents: { [index: string]: string } = {
-  c: "capacitors",
-  r: "resistors",
-  i: "inductors",
-  vr: "var-resistors",
-};
-
 const ProductPage: React.FC = () => {
-  const navigator = useNavigate();
+  const navigate = useNavigate();
   const dispatch = useAppDispatch();
   const { id } = useParams();
   const [added, setAdded] = useState(false);
@@ -49,8 +42,6 @@ const ProductPage: React.FC = () => {
       </div>
     );
 
-  const componentName = radioComponents[id.split("-")[0]];
-
   const formattedPrice = new Intl.NumberFormat("en-US", {
     style: "currency",
     currency: "USD",
@@ -58,7 +49,7 @@ const ProductPage: React.FC = () => {
 
   const onBuy = () => {
     onAddToCart();
-    navigator("/cart");
+    navigate("/cart");
   };
 
   const onAddToCart = () => {
@@ -73,16 +64,19 @@ const ProductPage: React.FC = () => {
 
   return (
     <div className="flex flex-col w-full bg-white h-full">
-      <div className="block py-10 px-5">
-        <Link
-          to={`/c/${componentName}`}
-          className="m-2 p-8 md:p-10 bg-sky-300 text-[1.6rem] md:text-[2rem] text-white hover:shadow-lg hover:bg-sky-400"
-          style={{
-            clipPath: "polygon(5% 20%, 100% 20%, 100% 80%, 5% 80%, 0 50%)",
-          }}
+      <div className="flex py-10 px-5">
+        {/* <p className="w-0 h-0 border-t-[25px] border-solid border-t-transparent border-r-[50px] border-r-sky-400 border-b-[25px] border-b-transparent"></p> */}
+        <button
+          onClick={() => navigate(-1)}
+          className={`${styles.cap1} flex items-center relative px-8 py-2 hover:shadow-lg border-solid border-2 border-sky-400 text-sky-400 uppercase hover:top-1`}
         >
-          Back to {componentName}
-        </Link>
+          <img
+            src={back_arrow}
+            alt="back"
+            className="inline-block h-[18px] mr-10 "
+          />
+          Back
+        </button>
       </div>
 
       {!data || !id ? (
